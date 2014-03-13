@@ -1,0 +1,70 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for February, 2014, generated on 2014/03/13
+
+Number of download events that retrieved data from the resource: 15 (out of 131 download events in this period)
+Total number of records downloaded: 4571 (out of 1275149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4520
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-02-13 ; Times: 3
+	Date: 2014-02-14 ; Times: 2
+	Date: 2014-02-18 ; Times: 1
+	Date: 2014-02-23 ; Times: 2
+	Date: 2014-02-24 ; Times: 2
+	Date: 2014-02-26 ; Times: 2
+	Date: 2014-02-27 ; Times: 2
+	Date: 2014-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "boulder" ; Times: 2 ; Records each time: 50 
+	Query: "mammal* ohio" ; Times: 1 ; Records each time: 1 
+	Query: "Sciurus niger" ; Times: 1 ; Records each time: 50 
+	Query: "Ochotona princeps eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 1 
+	Query: "tamiasciurus hudsonicus distance(location,geopoint(42.22200908140189,-75.596923828125))<409104.35159555933" ; Times: 1 ; Records each time: 50 
+	Query: "genus:Branta institutioncode:MVZ OR CAS OR UMMZ OR FMNH OR ROM" ; Times: 1 ; Records each time: 50 
+	Query: "Sciurus carolinensis" ; Times: 1 ; Records each time: 1 
+	Query: "Baeolophus ridgwayi eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 1 
+	Query: "passeridae" ; Times: 1 ; Records each time: 1 
+	Query: "canis lupus" ; Times: 1 ; Records each time: 1 
+	Query: "Ursus americanus eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 36 
+	Query: "Lepus americanus country:Canada" ; Times: 1 ; Records each time: 50 
+	Query: "Cynomys ludovicianus eventdate > 1949-1-1 eventdate < 2015-1-1" ; Times: 1 ; Records each time: 28 
+	Query: "country:Mexico" ; Times: 1 ; Records each time: 1 
+
+Cumulative values for this year:
+
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 17130
+
+Cumulative values since the beginning:
+
+Number of download events that retrieved data from the resource: 114
+Total number of records downloaded: 28462
+
+
+End of report.
+
+
+Brief explanation of each stat:
+
+1) Number of download events that retrieved data from the resource. The amount of times any record from your institution has appeared in a download. The number in parenthesis is how many result sets have been downloaded in total in the network, in the given period. We believe this is helpful to see the proportion of all the download events that have records from a particular institution.
+
+2) Total number of records downloaded. The amount of times any record from your institution has been downloaded. The number in parenthesis is the total amount of records that have been downloaded from the VertNet network in the given period.
+
+3) Total number of unique records downloaded. The number of individual records from your collection that have been downloaded. We believe this is helpful to calculate the proportion of your collection that has been downloaded.
+
+The main difference between (3) and (2) can be better explained with an example: If your collection has 3 records, 'a', 'b' and 'c', and 'a' is downloaded 3 times and 'b' is downloaded once, (2) would be 4, because there have been 4 downloaded records, but (3) would be 2, because only records 'a' and 'b' have been downloaded.
+
+4) Number of different countries. The amount of individual countries that have downloaded data from your institution in the given period.
+
+5) Breakdown of the individual countries, counting how many times they have downloaded records from your institution.
+
+6) Breakdown of dates when queries where made, with the number of downloads each day.
+
+7) Breakdown of query terms. These are the actual queries that were performed and which retrieved data,  from your institution. It also shows the number of times that query has been performed and the number of records pulled from your institution each time.
