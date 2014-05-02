@@ -1,0 +1,268 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 278
+Number of records retrieved in searches: 6495
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 21
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Germany ; Times: 7
+	Country: Madagascar ; Times: 52
+	Country: Mexico ; Times: 17
+	Country: United States ; Times: 159
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 13
+	Date: 2014-04-03 ; Times: 8
+	Date: 2014-04-04 ; Times: 6
+	Date: 2014-04-05 ; Times: 4
+	Date: 2014-04-06 ; Times: 3
+	Date: 2014-04-07 ; Times: 62
+	Date: 2014-04-08 ; Times: 4
+	Date: 2014-04-10 ; Times: 9
+	Date: 2014-04-11 ; Times: 8
+	Date: 2014-04-12 ; Times: 1
+	Date: 2014-04-13 ; Times: 1
+	Date: 2014-04-14 ; Times: 16
+	Date: 2014-04-15 ; Times: 10
+	Date: 2014-04-16 ; Times: 3
+	Date: 2014-04-17 ; Times: 24
+	Date: 2014-04-18 ; Times: 2
+	Date: 2014-04-19 ; Times: 1
+	Date: 2014-04-21 ; Times: 12
+	Date: 2014-04-22 ; Times: 11
+	Date: 2014-04-23 ; Times: 11
+	Date: 2014-04-24 ; Times: 10
+	Date: 2014-04-25 ; Times: 12
+	Date: 2014-04-26 ; Times: 7
+	Date: 2014-04-27 ; Times: 6
+	Date: 2014-04-28 ; Times: 16
+	Date: 2014-04-29 ; Times: 11
+	Date: 2014-04-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "macaque" ; Times: 2
+	Query: "CUML" ; Times: 3
+	Query: "stateprovince:"california" specificepithet:alba genus:ardea" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "batanta" ; Times: 1
+	Query: "gulgula" ; Times: 1
+	Query: "djibouti" ; Times: 2
+	Query: "country:"Syria"" ; Times: 1
+	Query: "magicicada" ; Times: 1
+	Query: "carpenter ant" ; Times: 1
+	Query: "sea urchin fossil" ; Times: 1
+	Query: "Western fence lizard" ; Times: 3
+	Query: "pecari tajacu" ; Times: 3
+	Query: "elanoides forficatus (new york)" ; Times: 1
+	Query: "sus scrofa" ; Times: 5
+	Query: "Amazilia viridicauda" ; Times: 2
+	Query: "specificepithet:fulvus genus:Lemur" ; Times: 36
+	Query: "species:Ochotona princeps" ; Times: 1
+	Query: "apis mappable:1" ; Times: 1
+	Query: "Syndactyla dimidiata" ; Times: 2
+	Query: "Actitis macularius" ; Times: 2
+	Query: "institutioncode:cuml year:2010" ; Times: 4
+	Query: "alouatta AND peru" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "borror" ; Times: 1
+	Query: "Gallirallus okinawae" ; Times: 2
+	Query: "institutioncode:cuml" ; Times: 2
+	Query: "Mollusc" ; Times: 2
+	Query: "genus:Limnoctites" ; Times: 1
+	Query: "Los Mangos" ; Times: 1
+	Query: "american pika" ; Times: 1
+	Query: "washington Ursus americanus type:observation" ; Times: 1
+	Query: "sea lions" ; Times: 2
+	Query: "carolina parakeets" ; Times: 2
+	Query: "African True Toad" ; Times: 2
+	Query: "drosophila" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "global amphibian decline" ; Times: 2
+	Query: "cicada" ; Times: 1
+	Query: "Loxodonta" ; Times: 1
+	Query: "acinonyx" ; Times: 2
+	Query: "jacana" ; Times: 1
+	Query: "molothrus ater wyoming" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "specificepithet:fulvus genus:Lemur year >= 1900 year <= 2000" ; Times: 7
+	Query: "red fox" ; Times: 1
+	Query: "ocreatus" ; Times: 1
+	Query: "Ursus americanus type:observation" ; Times: 1
+	Query: "apis mappable:1 distance(location,geopoint(20.46818922264095,-75.8935546875))<100000" ; Times: 1
+	Query: "peafowl" ; Times: 1
+	Query: "callithrix aurita" ; Times: 2
+	Query: "genus:Pithecia class:Mammalia media:1" ; Times: 2
+	Query: "genus:vultur" ; Times: 4
+	Query: "Todiramphus veneratus" ; Times: 1
+	Query: "Gallirallus australis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 3
+	Query: "spring peepers" ; Times: 2
+	Query: "stateprovince:"pennsylvania" class:aves year >= 2000 year <= 2013" ; Times: 1
+	Query: "Orangutan" ; Times: 2
+	Query: "country:"Argentina" genus:Ctenomys" ; Times: 1
+	Query: "pickle AND punk" ; Times: 4
+	Query: "Ochotona princeps media:1" ; Times: 2
+	Query: "pika" ; Times: 3
+	Query: "callicebus" ; Times: 1
+	Query: "genus:sus specificepithet:scrofa institutioncode:cuml" ; Times: 1
+	Query: "Macaulay Library" ; Times: 3
+	Query: "sus scrofa type:observation country:"United States"" ; Times: 1
+	Query: "Actinopterygii Ecuador" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "macaulay media:1" ; Times: 1
+	Query: "anous minutus" ; Times: 1
+	Query: "coccycua minuta" ; Times: 2
+	Query: "felis type:observation media:1" ; Times: 1
+	Query: "malurus alboscapulatus" ; Times: 1
+	Query: "darwin core" ; Times: 2
+	Query: "florensis" ; Times: 2
+	Query: "streptophorus" ; Times: 2
+	Query: "parotia wahnesi" ; Times: 2
+	Query: "Procyon stateprovince:"New York"" ; Times: 1
+	Query: "dead AND kennedy" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "country:"United States" specificepithet:catus genus:felis" ; Times: 1
+	Query: "honey bee" ; Times: 5
+	Query: "stiphrornis" ; Times: 1
+	Query: "axis axis country:"United States"" ; Times: 7
+	Query: "(evelynae) year <= 2014" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 13
+	Query: "sus scrofa type:observation" ; Times: 1
+	Query: "hammock camp" ; Times: 1
+	Query: "carolina chickadee" ; Times: 1
+	Query: "Mollusca" ; Times: 1
+	Query: "cyanolyca viridicyanus" ; Times: 2
+	Query: "balaeniceps" ; Times: 1
+	Query: "common chameleon" ; Times: 1
+	Query: "ursus type:observation" ; Times: 2
+	Query: "Dryotriorchis spectabilis" ; Times: 1
+	Query: "rufous hummingbird" ; Times: 1
+	Query: "philodice" ; Times: 1
+	Query: "zonotrichia capensis country:"Peru"" ; Times: 2
+	Query: "Pachycephala melanura" ; Times: 1
+	Query: "Pieris" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus class:Mammalia" ; Times: 3
+	Query: "Syndactyla rufosuperciliata" ; Times: 1
+	Query: "specificepithet:fulvus genus:Lemur year >= 1990 year <= 2013" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Calliphlox evelynae" ; Times: 2
+	Query: "institutioncode:cuml year:2010 film" ; Times: 1
+	Query: "specificepithet:fulvus genus:lemur year >= 1900 year <= 2000" ; Times: 8
+	Query: "callithrix penicillata" ; Times: 3
+	Query: "Ninox philippensis" ; Times: 2
+	Query: "black necked stilt" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 6
+	Query: "Agamia agami" ; Times: 1
+	Query: "lipaugus streptophorus" ; Times: 8
+	Query: "formicivora grisea" ; Times: 1
+	Query: "Car harken" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "genus:Vultur" ; Times: 6
+	Query: "Gallirallus owstoni" ; Times: 1
+	Query: "Andean condor" ; Times: 5
+	Query: "ophiophagus" ; Times: 3
+	Query: "specimen yellow-bellied flycatcher" ; Times: 1
+	Query: ""ctenomys" country:"Argentina"" ; Times: 1
+	Query: "wolves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 433 download events in this period)
+Total number of records downloaded: 2098 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1814
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 3
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-10 ; Times: 4
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-15 ; Times: 6
+	Date: 2014-04-16 ; Times: 8
+	Date: 2014-04-17 ; Times: 6
+	Date: 2014-04-18 ; Times: 3
+	Date: 2014-04-20 ; Times: 2
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-22 ; Times: 1
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-25 ; Times: 1
+	Date: 2014-04-26 ; Times: 2
+	Date: 2014-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "amphispiza belli" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "country:"United States" specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "genus:lepomis" ; Times: 2
+	Query: "Procyon stateprovince:"New York"" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 2
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "country:"United States" specificepithet:catus genus:felis" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris" ; Times: 2
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "country:"Argentina" genus:Ctenomys" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: ""agkistrodon piscivorus" mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "blb" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "genus:Vultur" ; Times: 3
+	Query: "Microtus pennsylvanicus stateprovince:"New York"" ; Times: 1
+	Query: "University of Michigan Museum Zoology" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "genus:Hyperolius mappable:1" ; Times: 1
+	Query: "genus:sus specificepithet:scrofa institutioncode:cuml" ; Times: 1
+	Query: "jongsma" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "genus:vultur" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 278
+Total number of records retrieved from searches: 6495
+Number of download events that retrieved data from the resource: 147
+Total number of records downloaded: 26260
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 278
+Total number of records retrieved from searches: 6495
+Number of download events that retrieved data from the resource: 261
+Total number of records downloaded: 54722
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
