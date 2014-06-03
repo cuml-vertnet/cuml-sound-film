@@ -1,0 +1,408 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 749
+Number of records retrieved in searches: 9083
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 20
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 64
+	Country: Canada ; Times: 17
+	Country: Colombia ; Times: 3
+	Country: Cyprus ; Times: 9
+	Country: Indonesia ; Times: 6
+	Country: Mexico ; Times: 11
+	Country: Panama ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 350
+	Country: Unknown ; Times: 259
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 7
+	Date: 2014-05-02 ; Times: 12
+	Date: 2014-05-05 ; Times: 8
+	Date: 2014-05-06 ; Times: 32
+	Date: 2014-05-07 ; Times: 62
+	Date: 2014-05-08 ; Times: 10
+	Date: 2014-05-09 ; Times: 12
+	Date: 2014-05-10 ; Times: 9
+	Date: 2014-05-11 ; Times: 36
+	Date: 2014-05-12 ; Times: 19
+	Date: 2014-05-13 ; Times: 18
+	Date: 2014-05-14 ; Times: 10
+	Date: 2014-05-15 ; Times: 36
+	Date: 2014-05-16 ; Times: 205
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-19 ; Times: 3
+	Date: 2014-05-20 ; Times: 8
+	Date: 2014-05-21 ; Times: 35
+	Date: 2014-05-22 ; Times: 7
+	Date: 2014-05-23 ; Times: 34
+	Date: 2014-05-24 ; Times: 5
+	Date: 2014-05-25 ; Times: 17
+	Date: 2014-05-26 ; Times: 4
+	Date: 2014-05-27 ; Times: 12
+	Date: 2014-05-28 ; Times: 52
+	Date: 2014-05-29 ; Times: 34
+	Date: 2014-05-30 ; Times: 48
+	Date: 2014-05-31 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 15
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:nipalensis genus:Bubo" ; Times: 10
+	Query: "indri" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "Coeligena wilsoni" ; Times: 1
+	Query: "dasyprocta azarae" ; Times: 1
+	Query: "Boissonneaua jardini" ; Times: 1
+	Query: "xiphorhynchus fuscus" ; Times: 3
+	Query: "Eastern cottontail" ; Times: 3
+	Query: "Limnothlypis swainsonii type:observation" ; Times: 1
+	Query: "CUML" ; Times: 1
+	Query: "Hylobates albibarbis" ; Times: 1
+	Query: "country:"Peru" genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "priotelus" ; Times: 1
+	Query: "Pteropus institutioncode:CUML" ; Times: 1
+	Query: "hooded warbler" ; Times: 1
+	Query: "ardea goliath" ; Times: 23
+	Query: ""bison bison"" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "Saguinus niger" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "koepckeae" ; Times: 1
+	Query: "penelope obscura 2013" ; Times: 1
+	Query: "country:"Panama" specificepithet:microcephala genus:Hyla" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 1
+	Query: "specificepithet:shelleyi genus:Bubo" ; Times: 4
+	Query: "Pteropus rufus" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "genus:Speothos year <= 2014" ; Times: 1
+	Query: "Cebus apella 1999" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 1
+	Query: "robbins two island" ; Times: 2
+	Query: "cebus" ; Times: 25
+	Query: "country:"venezuela" genus:Odocoileus year >= 1970 year <= 2014" ; Times: 2
+	Query: "Cebus apella 1993" ; Times: 1
+	Query: "Cebus apella 1995" ; Times: 1
+	Query: "species:panthera onca" ; Times: 2
+	Query: "Cebus apella 1997" ; Times: 1
+	Query: "Cebus apella 1996" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 2
+	Query: "Petaurista nobilis" ; Times: 1
+	Query: "propithecus tattersalli" ; Times: 1
+	Query: "Piranga roseogularis" ; Times: 2
+	Query: "genus:panthera year >= 1970 year <= 2014" ; Times: 1
+	Query: "penelope pileata" ; Times: 1
+	Query: "melospiza melodia sitka" ; Times: 1
+	Query: "great awk" ; Times: 2
+	Query: "hapalopsittaca amazonina" ; Times: 1
+	Query: "genus:casuarius" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "country:"Bolivia" specificepithet:belzebuth genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "djibouti" ; Times: 1
+	Query: "cebus apella" ; Times: 2
+	Query: "Camelus AND (NOT Aves)" ; Times: 2
+	Query: "panthera onca" ; Times: 6
+	Query: "penelope obscura 2005" ; Times: 1
+	Query: "penelope obscura 2006" ; Times: 1
+	Query: "penelope obscura 2000" ; Times: 1
+	Query: "Aglaiocercus berlepschi" ; Times: 1
+	Query: "Tamandua" ; Times: 1
+	Query: "crane hollow" ; Times: 1
+	Query: "type:observation (Amazona ochrocephala) AND (south america) year >= 1970" ; Times: 1
+	Query: "Cebus apella 1988" ; Times: 1
+	Query: "Cebus apella 1989" ; Times: 1
+	Query: "Callosciurus finlaysonii" ; Times: 1
+	Query: "Murina grisea" ; Times: 1
+	Query: "Pteropus country:"Madagascar"" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 1
+	Query: "Cebus apella 1980" ; Times: 3
+	Query: "class:Mammalia pteronura" ; Times: 7
+	Query: "Cebus apella 1987" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "ara" ; Times: 3
+	Query: ""prothonotary warbler" media:1" ; Times: 2
+	Query: "colinus cristatus" ; Times: 1
+	Query: "amazona vinacea" ; Times: 11
+	Query: "Plumbeous Vireo" ; Times: 2
+	Query: "country:"Rwanda" class:Aves" ; Times: 4
+	Query: "phaner" ; Times: 1
+	Query: "Brachyteles hypoxanthus" ; Times: 2
+	Query: "genus:Speothos" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 2
+	Query: "Marmota marmot" ; Times: 10
+	Query: "Pteropus" ; Times: 3
+	Query: "genus:hydrurga" ; Times: 1
+	Query: "country:"Costa Rica" genus:Odocoileus" ; Times: 1
+	Query: "calyptorhynchus banksii" ; Times: 1
+	Query: "casuarius" ; Times: 2
+	Query: ""loggerhead shrike" media:1" ; Times: 1
+	Query: "penelope ortoni" ; Times: 1
+	Query: "specificepithet:belzebuth genus:ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "habia rubica" ; Times: 6
+	Query: "genus:Tarsius" ; Times: 1
+	Query: "Tamiops swinhoei" ; Times: 1
+	Query: "country:"costa rica" genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 3
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "year >= 1984 year <= 2014 mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<4746" ; Times: 1
+	Query: "Hornbill" ; Times: 1
+	Query: "frog population" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Sundasciurus jentinki" ; Times: 1
+	Query: "propithecus coquereli" ; Times: 4
+	Query: "CAIMAN CROCODILUS 2011" ; Times: 1
+	Query: "bufo marinus 2011" ; Times: 1
+	Query: "CAIMAN CROCODILUS 2013" ; Times: 1
+	Query: "country:"Panama" genus:Micrurus year >= 1995 year <= 2014" ; Times: 1
+	Query: "black thighed falconet" ; Times: 1
+	Query: "Chlorocebus tantalus" ; Times: 1
+	Query: "tockus deckeni" ; Times: 2
+	Query: "Hylocharis sapphirina" ; Times: 1
+	Query: "SAIMIRI" ; Times: 6
+	Query: "pogoniulus bilineatus" ; Times: 8
+	Query: "specificepithet:zeylonensis genus:Ketupa" ; Times: 29
+	Query: "butterfly" ; Times: 1
+	Query: "Amazona autumnalis and country: brazil" ; Times: 1
+	Query: "country:"Brazil" genus:ateles year >= 1970 year <= 2014" ; Times: 4
+	Query: "delphinus capensis" ; Times: 1
+	Query: "specificepithet:leucostictus genus:Bubo" ; Times: 6
+	Query: "CAIMAN CROCODILUS" ; Times: 1
+	Query: "penelope obscura" ; Times: 3
+	Query: "Pan troglodytes" ; Times: 2
+	Query: "penelope obscura 1998" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 5
+	Query: "penelope obscura 2002" ; Times: 1
+	Query: "eastern cottontail" ; Times: 5
+	Query: "varecia variegata" ; Times: 2
+	Query: "Buceros vigil" ; Times: 4
+	Query: "penelope obscura 1990" ; Times: 2
+	Query: "mountain lion" ; Times: 2
+	Query: "butterfly wall" ; Times: 1
+	Query: "varecia variegata variegata" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "penelope obscura 1986" ; Times: 2
+	Query: "Aedes" ; Times: 2
+	Query: "penelope obscura 1980" ; Times: 3
+	Query: "mule deer mappable:1" ; Times: 1
+	Query: "Cebus nigritus" ; Times: 1
+	Query: "penelope obscura 1988" ; Times: 2
+	Query: "Pteropus country:"Australia"" ; Times: 1
+	Query: "Purple roller media:1" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 6
+	Query: "two island grand manan" ; Times: 1
+	Query: "Amazilia rosenbergi" ; Times: 1
+	Query: "genus:ateles year >= 1970 year <= 2014" ; Times: 3
+	Query: "Stachyris whiteheadi" ; Times: 1
+	Query: "casuarius year >= 1988" ; Times: 1
+	Query: "bassaricyon" ; Times: 45
+	Query: "specificepithet:tigris genus:panthera" ; Times: 2
+	Query: "KU "NE flank Kusad Mountain"" ; Times: 1
+	Query: "cairina 2011" ; Times: 2
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "country:"Panama" genus:Cebus" ; Times: 2
+	Query: "penelope barbata" ; Times: 1
+	Query: "hoazin" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.6693585452454,-122.05810546875))<9436.132961545198" ; Times: 1
+	Query: "penelope obscura 2011" ; Times: 1
+	Query: "Glen Rose" ; Times: 1
+	Query: "country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "Eulemur" ; Times: 1
+	Query: "ateles" ; Times: 2
+	Query: "alouatta" ; Times: 3
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 14
+	Query: "Bull Pasture Pond" ; Times: 1
+	Query: "country:"bolivia" genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "specificepithet:ridgwayi genus:baeolophus media:1" ; Times: 1
+	Query: "shrew" ; Times: 1
+	Query: "Cebus apella 1981" ; Times: 1
+	Query: "cavity nesting birds" ; Times: 1
+	Query: "penelope obscura 2012" ; Times: 1
+	Query: "Merops apiaster media:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 43
+	Query: "country:"Peru" specificepithet:belzebuth genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "type:observation (gorilla gorilla)" ; Times: 1
+	Query: ""harpactes ardens"" ; Times: 1
+	Query: "country:"Brazil" specificepithet:belzebuth genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "cairina" ; Times: 4
+	Query: "barred owl" ; Times: 2
+	Query: "lemur catta madagascar" ; Times: 2
+	Query: "primate" ; Times: 1
+	Query: "Panthera" ; Times: 3
+	Query: "Presbytis natunae" ; Times: 1
+	Query: "penelope obscura 1974" ; Times: 1
+	Query: "penelope obscura 1977" ; Times: 1
+	Query: "tachyphonus phoenicius" ; Times: 51
+	Query: "genus:Tarsius tarsier" ; Times: 5
+	Query: "genus:Brachygalba" ; Times: 1
+	Query: "Ocelot" ; Times: 1
+	Query: "specificepithet:poensis genus:Bubo" ; Times: 18
+	Query: "CAIMAN CROCODILUS 1980" ; Times: 1
+	Query: "pogoniulus chrysoconus" ; Times: 1
+	Query: "saimiri" ; Times: 2
+	Query: "grey wolf" ; Times: 1
+	Query: "Menetes berdmorei" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Cebus apella 1998" ; Times: 1
+	Query: "specificepithet:blakistoni genus:Ketupa" ; Times: 6
+	Query: "Amazona and country: brazil" ; Times: 1
+	Query: "bufflehead duck" ; Times: 2
+	Query: "lemur catta" ; Times: 9
+	Query: "prothonotary warbler" ; Times: 7
+	Query: "country:"Panama" specificepithet:pustulosus genus:Engystomops" ; Times: 1
+	Query: "white throated sparrow song" ; Times: 1
+	Query: "Dipper" ; Times: 1
+	Query: "Goldmania violiceps" ; Times: 1
+	Query: "frog population decrease" ; Times: 1
+	Query: "zyskowski" ; Times: 3
+	Query: "tree swallow" ; Times: 1
+	Query: "hapalemur griseus" ; Times: 6
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "specificepithet:bouvieri genus:Scotopelia" ; Times: 5
+	Query: "san francisco garter snake" ; Times: 2
+	Query: ""western wood-pewee"" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "brachygalba" ; Times: 1
+	Query: "penelope obscura 1999" ; Times: 1
+	Query: "white throated sparrow" ; Times: 1
+	Query: "virunga class:Aves" ; Times: 2
+	Query: "CAIMAN CROCODILUS 1998" ; Times: 1
+	Query: "penelope albipennis" ; Times: 1
+	Query: "white-tail deer" ; Times: 2
+	Query: "alouatta seniculus country:"bolivia"" ; Times: 1
+	Query: "anole" ; Times: 2
+	Query: "Cebus apella 2006" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "Cebus apella 2004" ; Times: 1
+	Query: "Cebus apella 2005" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.6693585452454,-122.05810546875))<2395" ; Times: 1
+	Query: "Cebus apella 2000" ; Times: 1
+	Query: "pattern distribution" ; Times: 1
+	Query: "emberizoides type" ; Times: 2
+	Query: "allobates" ; Times: 2
+	Query: "alouatta country:"bolivia"" ; Times: 1
+	Query: "Funambulus layardi" ; Times: 1
+	Query: "Cebus apella 1994" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "hydrochaeris" ; Times: 3
+	Query: "Cebus apella" ; Times: 1
+	Query: "Basiliscus vittatus 2011" ; Times: 1
+	Query: "Campylopterus ensipennis" ; Times: 1
+	Query: "Chiropotes chiropotes" ; Times: 1
+	Query: "specificepithet:sumatranus genus:Bubo" ; Times: 1
+	Query: "piranga bidentata" ; Times: 1
+	Query: "howler monkey" ; Times: 5
+	Query: "specificepithet:lugubris genus:Brachygalba" ; Times: 1
+	Query: ""cerulean warbler" media:1" ; Times: 2
+	Query: "blue whale" ; Times: 2
+	Query: "Pinyon Jay" ; Times: 3
+	Query: "hapalemur simus" ; Times: 10
+	Query: "trichechus 200" ; Times: 1
+	Query: ""Rhipidura rufifrons"" ; Times: 6
+	Query: "Alouatta" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "genus:Ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "trichechus 2011" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 4
+	Query: "northern parula" ; Times: 1
+	Query: "mud snake" ; Times: 1
+	Query: "marsupials" ; Times: 1
+	Query: "hapalemur aureus" ; Times: 13
+	Query: "pycnonotus goiavier" ; Times: 1
+	Query: "sumatran trogon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1679 download events in this period)
+Total number of records downloaded: 189722 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 187795
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 7
+	Date: 2014-05-05 ; Times: 3
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-16 ; Times: 3
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 3
+	Date: 2014-05-22 ; Times: 6
+	Date: 2014-05-23 ; Times: 1
+	Date: 2014-05-26 ; Times: 1
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-29 ; Times: 2
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "type:observation" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: ""Aquila chrysaetos"" ; Times: 1
+	Query: "Pteropus institutioncode:CUML" ; Times: 1
+	Query: ""Crotalus cerastes"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.16295449004889,-118.00277709960938))<8154.80069913644" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: ""Athene cunicularia"" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "stateprovince:"Wyoming" genus:Ochotona" ; Times: 3
+	Query: "year >= 1964 year <= 2014 mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<4746" ; Times: 1
+	Query: ""Toxostoma crissale"" ; Times: 1
+	Query: "egretta rufescens" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: ""Toxostoma lecontei"" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: ""Campylorhynchus brunneicapillus"" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "marsupialia" ; Times: 1
+	Query: "monrovia" ; Times: 1
+	Query: "tachyphonus phoenicius" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.164090803573146,-118.00689697265625))<8170.3746424486" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1027
+Total number of records retrieved from searches: 15578
+Number of download events that retrieved data from the resource: 179
+Total number of records downloaded: 215982
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1027
+Total number of records retrieved from searches: 15578
+Number of download events that retrieved data from the resource: 293
+Total number of records downloaded: 244444
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
