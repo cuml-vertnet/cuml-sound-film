@@ -1,0 +1,278 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 219
+Number of records retrieved in searches: 4480
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 145
+	Country: Unknown ; Times: 9
+	Country: Venezuela ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 16
+	Date: 2014-06-02 ; Times: 12
+	Date: 2014-06-03 ; Times: 15
+	Date: 2014-06-04 ; Times: 17
+	Date: 2014-06-05 ; Times: 7
+	Date: 2014-06-06 ; Times: 6
+	Date: 2014-06-08 ; Times: 4
+	Date: 2014-06-09 ; Times: 8
+	Date: 2014-06-10 ; Times: 19
+	Date: 2014-06-11 ; Times: 10
+	Date: 2014-06-12 ; Times: 12
+	Date: 2014-06-13 ; Times: 15
+	Date: 2014-06-14 ; Times: 5
+	Date: 2014-06-16 ; Times: 5
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-18 ; Times: 3
+	Date: 2014-06-19 ; Times: 3
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-22 ; Times: 2
+	Date: 2014-06-23 ; Times: 6
+	Date: 2014-06-24 ; Times: 12
+	Date: 2014-06-25 ; Times: 7
+	Date: 2014-06-26 ; Times: 4
+	Date: 2014-06-27 ; Times: 10
+	Date: 2014-06-28 ; Times: 3
+	Date: 2014-06-29 ; Times: 4
+	Date: 2014-06-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"samoa"" ; Times: 1
+	Query: "recordedby:Medler" ; Times: 2
+	Query: "Paradisaea apoda" ; Times: 2
+	Query: "nutria" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "Syncerus" ; Times: 1
+	Query: "genus:Sarcophilus" ; Times: 1
+	Query: "Megascops koepckeae" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "gray jay" ; Times: 1
+	Query: "country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 2
+	Query: "black kite" ; Times: 1
+	Query: "specificepithet:leucospodia genus:Pseudelaenia" ; Times: 1
+	Query: "genus:Coua" ; Times: 1
+	Query: "jaguarundi" ; Times: 1
+	Query: "dragonfly" ; Times: 1
+	Query: "(Hyaena brunnea)" ; Times: 1
+	Query: "lophotriccus" ; Times: 2
+	Query: "polytmus theresiae" ; Times: 1
+	Query: "pleurodema borellii" ; Times: 5
+	Query: "giraffe" ; Times: 2
+	Query: "institutioncode:CUML year >= 2013 year <= 2014" ; Times: 2
+	Query: "eastern kingbird" ; Times: 2
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "BLB media:1" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "Canis lupus media:1" ; Times: 2
+	Query: "monodon monoceros" ; Times: 5
+	Query: "green frog" ; Times: 1
+	Query: "emberizoides mappable:1" ; Times: 3
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "penelopina year >= 1985 year <= 2014" ; Times: 1
+	Query: "three-spine stickleback" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 4
+	Query: "sword-billed hummingbird" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "genus:trogon year >= 1990" ; Times: 1
+	Query: "gorilla behavior" ; Times: 1
+	Query: "Malurus pleurostictus" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "polyplectron" ; Times: 1
+	Query: "hylaeformis genus:Diasporus" ; Times: 1
+	Query: "Delaney" ; Times: 1
+	Query: "genus:Diasporus" ; Times: 1
+	Query: "Eastern Whip-poor-will" ; Times: 1
+	Query: "aburria year >= 1985 year <= 2014" ; Times: 1
+	Query: "northern jacana" ; Times: 1
+	Query: "eulampis holosericeus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina mappable:1" ; Times: 1
+	Query: "mustela stateprovince:"texas"" ; Times: 1
+	Query: "sheep frog" ; Times: 1
+	Query: "batara" ; Times: 1
+	Query: "Myiobius barbatus" ; Times: 3
+	Query: "genus:Pithecia class:Mammalia media:1" ; Times: 1
+	Query: "cayuta" ; Times: 2
+	Query: "vireo pallens" ; Times: 1
+	Query: "specificepithet:zeylonensis genus:Ketupa" ; Times: 1
+	Query: "jacana spinosa" ; Times: 2
+	Query: "Oreophasis" ; Times: 2
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "type:observation class:Amphibia" ; Times: 2
+	Query: "sumichrast stateprovince:"Veracruz"" ; Times: 1
+	Query: "ku asthenes" ; Times: 1
+	Query: "sooty shearwater" ; Times: 1
+	Query: "Copsychus saularis mappable:1" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "country:"New Zealand" recordedby:Medler" ; Times: 2
+	Query: "shrimp" ; Times: 1
+	Query: "stateprovince:"Cojedes" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "specificepithet:sumatranus genus:Bubo" ; Times: 1
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "country:"Panama" specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "recordedby:Lane institutioncode:CUML" ; Times: 3
+	Query: "invasive" ; Times: 1
+	Query: "clouded leopard" ; Times: 3
+	Query: "stateprovince:"Panama" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 2
+	Query: "Callosciurus prevostii" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "psittacidae country:"Venezuela"" ; Times: 4
+	Query: "mustela stateprovince:"texas" mappable:1" ; Times: 1
+	Query: "Megalaima haemacephala mappable:1" ; Times: 1
+	Query: "country:"Panama" genus:Micrurus year >= 1999 year <= 2014" ; Times: 1
+	Query: "cassowary" ; Times: 1
+	Query: "SAIMIRI" ; Times: 2
+	Query: "white-tailed deer fawn" ; Times: 1
+	Query: "southern cassowary" ; Times: 7
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "lizard AND (not north america not asia) year >= 2000 year <= 2014 mappable:1" ; Times: 1
+	Query: "genus:Chironius year >= 1993 year <= 2014" ; Times: 1
+	Query: "genus:Malurus recordedby:Medler" ; Times: 1
+	Query: "Brigham Young" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "Rhino" ; Times: 2
+	Query: "Aepypodius" ; Times: 1
+	Query: "Talegalla" ; Times: 1
+	Query: "stateprovince:"Meta" country:"Colombia" class:Amphibia" ; Times: 1
+	Query: "coati" ; Times: 3
+	Query: "county:"san diego" stateprovince:"california" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "stateprovince:"huancavelica" country:"peru"" ; Times: 1
+	Query: "Milvus migrans" ; Times: 8
+	Query: "seagull" ; Times: 1
+	Query: "genus:amazona year >= 1990" ; Times: 1
+	Query: "Basileuterus flaveolus" ; Times: 4
+	Query: "Mephitis macroura country:"United States" year <= 2014" ; Times: 1
+	Query: "cercomacra nigricans" ; Times: 7
+	Query: "stateprovince:"Chiriqui" country:"Panama" specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "genus:cyanoliseus" ; Times: 1
+	Query: "wollebaeki" ; Times: 2
+	Query: "eulampis" ; Times: 1
+	Query: "poecile varius" ; Times: 1
+	Query: "country:"Costa Rica" recordedby:Medler institutioncode:CUML" ; Times: 1
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 1
+	Query: "callithrix jacchus" ; Times: 3
+	Query: "stateprovince:"Apure" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "genus:Carpococcyx" ; Times: 2
+	Query: "country:"american samoa"" ; Times: 1
+	Query: "specificepithet:alba genus:Ectophylla" ; Times: 1
+	Query: ""Panthera leo"" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "american oystercatcher" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "country:"Panama" specificepithet:eliciae genus:Hylocharis" ; Times: 1
+	Query: "ovenbird song" ; Times: 1
+	Query: ""red-tailed hawk" media:1" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "New York Glyptemys" ; Times: 1
+	Query: "gila monster" ; Times: 2
+	Query: "american oyster catcher" ; Times: 1
+	Query: "psittacidae country:"Venezuela" specificepithet:macao genus:ara" ; Times: 1
+	Query: "Vireo altiloquus" ; Times: 2
+	Query: "anthracothorax dominicus" ; Times: 1
+	Query: "specificepithet:schmidtorum genus:Micronycteris" ; Times: 1
+	Query: "aulacorhynchus prasinus" ; Times: 1
+	Query: "Mountain Lion" ; Times: 2
+	Query: "psittacidae country:"Venezuela" specificepithet:militaris genus:ara" ; Times: 1
+	Query: "aburria" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "nyctixalus pictus" ; Times: 1
+	Query: "country:"Panama" class:Reptilia year >= 1999 year <= 2014" ; Times: 1
+	Query: "Dasyurus" ; Times: 2
+	Query: "type:observation (Gorilla )" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 278 download events in this period)
+Total number of records downloaded: 4026 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3985
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 4
+	Date: 2014-06-04 ; Times: 2
+	Date: 2014-06-05 ; Times: 5
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-09 ; Times: 1
+	Date: 2014-06-10 ; Times: 4
+	Date: 2014-06-13 ; Times: 3
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-23 ; Times: 2
+	Date: 2014-06-24 ; Times: 2
+	Date: 2014-06-25 ; Times: 1
+	Date: 2014-06-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mephitis macroura country:"United States" year <= 2014" ; Times: 1
+	Query: "county:"kendall" stateprovince:"texas"" ; Times: 1
+	Query: "polyplectron" ; Times: 1
+	Query: "emberizoides mappable:1" ; Times: 1
+	Query: "Megalaima haemacephala mappable:1" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "anthracothorax dominicus" ; Times: 1
+	Query: "eulampis holosericeus" ; Times: 1
+	Query: "psittacidae country:"Venezuela"" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "Mammalia stateprovince:"Texas" mappable:1" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "specificepithet:leucospodia genus:Pseudelaenia" ; Times: 1
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "Mephitis mephitis country:"United States" year <= 2014" ; Times: 1
+	Query: "Tapirus pinchaque" ; Times: 1
+	Query: "county:"santa barbara" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "Copsychus saularis mappable:1" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "mammalia texas mappable:1" ; Times: 1
+	Query: "country:"New Zealand" recordedby:Medler" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "county:"san diego" stateprovince:"california" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Milvus migrans" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1246
+Total number of records retrieved from searches: 20058
+Number of download events that retrieved data from the resource: 209
+Total number of records downloaded: 220008
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1246
+Total number of records retrieved from searches: 20058
+Number of download events that retrieved data from the resource: 323
+Total number of records downloaded: 248470
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
