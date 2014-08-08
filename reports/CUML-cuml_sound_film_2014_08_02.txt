@@ -1,0 +1,388 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 355
+Number of records retrieved in searches: 5405
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Belgium ; Times: 7
+	Country: Brazil ; Times: 28
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Costa Rica ; Times: 12
+	Country: Ecuador ; Times: 1
+	Country: Finland ; Times: 5
+	Country: Germany ; Times: 11
+	Country: India ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: Panama ; Times: 10
+	Country: Poland ; Times: 4
+	Country: South Africa ; Times: 11
+	Country: Spain ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 205
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 5
+	Date: 2014-07-02 ; Times: 10
+	Date: 2014-07-03 ; Times: 7
+	Date: 2014-07-04 ; Times: 2
+	Date: 2014-07-05 ; Times: 5
+	Date: 2014-07-06 ; Times: 13
+	Date: 2014-07-07 ; Times: 19
+	Date: 2014-07-08 ; Times: 14
+	Date: 2014-07-09 ; Times: 16
+	Date: 2014-07-10 ; Times: 31
+	Date: 2014-07-11 ; Times: 40
+	Date: 2014-07-12 ; Times: 1
+	Date: 2014-07-13 ; Times: 6
+	Date: 2014-07-14 ; Times: 27
+	Date: 2014-07-15 ; Times: 6
+	Date: 2014-07-16 ; Times: 14
+	Date: 2014-07-17 ; Times: 3
+	Date: 2014-07-18 ; Times: 15
+	Date: 2014-07-19 ; Times: 4
+	Date: 2014-07-20 ; Times: 7
+	Date: 2014-07-21 ; Times: 12
+	Date: 2014-07-22 ; Times: 11
+	Date: 2014-07-23 ; Times: 14
+	Date: 2014-07-24 ; Times: 5
+	Date: 2014-07-25 ; Times: 7
+	Date: 2014-07-26 ; Times: 7
+	Date: 2014-07-27 ; Times: 3
+	Date: 2014-07-28 ; Times: 20
+	Date: 2014-07-29 ; Times: 22
+	Date: 2014-07-30 ; Times: 4
+	Date: 2014-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Balaenoptera" ; Times: 1
+	Query: "specificepithet:longicauda genus:Elminia" ; Times: 2
+	Query: "panthera type:observation mappable:1" ; Times: 1
+	Query: "Northern Harrier" ; Times: 4
+	Query: "Didunculus" ; Times: 4
+	Query: "crocodile" ; Times: 1
+	Query: "stateprovince:"kansas" specificepithet:corax genus:corvus" ; Times: 2
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "rhino" ; Times: 2
+	Query: "Urtica" ; Times: 2
+	Query: "balaenoptera edeni" ; Times: 2
+	Query: "rhodinocichla" ; Times: 1
+	Query: "albatross specificepithet:fusca genus:Phoebetria class:Aves" ; Times: 3
+	Query: "class:Mammalia Aepyceros melampus" ; Times: 2
+	Query: "specificepithet:fusca genus:Phoebetria" ; Times: 4
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "hemignathus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(38.75408327579141,-95.7568359375))<576363" ; Times: 1
+	Query: "specificepithet:sumatranus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "morton 1966 aves" ; Times: 1
+	Query: "Hippopotamus amphibius country:"SOUTH AFRICA" (Hippopotamus amphibius)" ; Times: 1
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+	Query: "siberian tiger" ; Times: 1
+	Query: "cecropia" ; Times: 1
+	Query: "Microspathodon dorsalis" ; Times: 1
+	Query: "laysan albatross" ; Times: 1
+	Query: "foot homo erectus" ; Times: 1
+	Query: "endemic country:"Ecuador" mappable:1" ; Times: 1
+	Query: "rose-collared piha" ; Times: 2
+	Query: "sasquatch" ; Times: 1
+	Query: "ARA AMBIGUUS" ; Times: 1
+	Query: "foot homo sapiens" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(38.75408327579141,-95.7568359375))<439309" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "orcinus mappable:1" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "genus:vultur" ; Times: 2
+	Query: "panthera onca" ; Times: 5
+	Query: "stateprovince:"oregon" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: ""caiman crocodilus" country:"Peru" year <= 2011" ; Times: 1
+	Query: "xenus" ; Times: 1
+	Query: "Corvus imparatus" ; Times: 3
+	Query: "picoides borealis" ; Times: 4
+	Query: "Trichechus manatus" ; Times: 10
+	Query: "Red-cockaded Woodpecker" ; Times: 1
+	Query: "Rhynchopsitta terrisi" ; Times: 5
+	Query: "elephant poaching Africa" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "homo" ; Times: 2
+	Query: "genus:Balaenoptera musculus" ; Times: 1
+	Query: "passerina county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "specificepithet:palpebrata genus:Phoebetria" ; Times: 2
+	Query: "aegolius harrisii" ; Times: 3
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus" ; Times: 2
+	Query: "Surf scoter" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(38.75408327579141,-95.7568359375))<380256" ; Times: 1
+	Query: "morton 20 jul 1966" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "genus:phoebetria class:aves" ; Times: 6
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 2
+	Query: "Guayana" ; Times: 1
+	Query: "common map turtle" ; Times: 1
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "Hog Nosed Skunk" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "Tragelaphus angasii country:"SOUTH AFRICA" (Tragelaphus angasii)" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 7
+	Query: "podocnemis expansa" ; Times: 4
+	Query: "Tarsiger" ; Times: 2
+	Query: "Pterodroma sandwichensis" ; Times: 1
+	Query: "NEON" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "ARA TRICOLOR" ; Times: 1
+	Query: ""tetrao urogallus"" ; Times: 4
+	Query: "Bos taurus country:"SOUTH AFRICA" (Bos taurus)" ; Times: 1
+	Query: "jacana spinosa" ; Times: 4
+	Query: "axis axis" ; Times: 2
+	Query: "Amphiprion chrysopterus" ; Times: 1
+	Query: "Onychoprion fuscatus year >= 1907 year <= 1953" ; Times: 1
+	Query: "Maytenus" ; Times: 1
+	Query: "Bee Hummingbird" ; Times: 2
+	Query: "albatross" ; Times: 1
+	Query: "pteroptochos megapodius" ; Times: 1
+	Query: "stateprovince:"washington" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: ""picoides borealis" year >= 1700 year <= 1969" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(45.460130637921004,-99.84375))<466374" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "Gray Jay" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "glyptemys stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "stateprovince:"new york" specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 4
+	Query: "specificepithet:sumatranus genus:Bubo" ; Times: 1
+	Query: "alectoris mappable:1" ; Times: 1
+	Query: "northern mockingbird" ; Times: 2
+	Query: "procyon lotor media:1" ; Times: 1
+	Query: "Lepidothrix coronata" ; Times: 1
+	Query: "common garter snake" ; Times: 2
+	Query: "Elminia longicauda" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014 distance(location,geopoint(47.55240677521587,-112.9397951066494))<337100" ; Times: 1
+	Query: "specificepithet:scandiacus genus:bubo" ; Times: 1
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "phonygammus" ; Times: 1
+	Query: "class:Mammalia balaenoptera acutorostrata" ; Times: 11
+	Query: "pterodroma cookii" ; Times: 1
+	Query: "stateprovince:"manitoba" specificepithet:corax genus:corvus AND (NOT fossil) year >= 1940 year <= 2014" ; Times: 1
+	Query: "crow media:1" ; Times: 3
+	Query: "american crow media:1" ; Times: 1
+	Query: "country:"brazil" genus:asthenes" ; Times: 2
+	Query: "green frogs" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 10
+	Query: "Southern Yellow Bat" ; Times: 3
+	Query: "Icterus auratus" ; Times: 1
+	Query: "Connochaetes taurinus country:"SOUTH AFRICA" (Connochaetes taurinus)" ; Times: 1
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 1
+	Query: "turtle year >= 2010 year <= 2014" ; Times: 1
+	Query: "elephant poaching" ; Times: 2
+	Query: "Danby stateprovince:"New York" country:"United States"" ; Times: 3
+	Query: "stateprovince:"California" genus:Patagioenas" ; Times: 1
+	Query: "leptotila rufaxilla" ; Times: 5
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 2
+	Query: "Alouatta venezuela" ; Times: 6
+	Query: "Fulica gigantea" ; Times: 3
+	Query: "myrmecophaga" ; Times: 1
+	Query: "frogs (western washington)" ; Times: 1
+	Query: "morton 1966" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: "northern goshawk" ; Times: 2
+	Query: "Pteroptochos" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(38.75408327579141,-95.7568359375))<406928" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "orcinus orca mappable:1" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "morton 1966 aves panama" ; Times: 1
+	Query: "Corvus sinaloae" ; Times: 2
+	Query: "aegolius ridgwayi" ; Times: 7
+	Query: "Stegastes arcifrons" ; Times: 1
+	Query: ""picoides borealis"" ; Times: 7
+	Query: "xenus cinereus" ; Times: 2
+	Query: "Aepyceros melampus Aepyceros melampus" ; Times: 2
+	Query: "nutter" ; Times: 1
+	Query: "red-throated pipit" ; Times: 1
+	Query: "Fulica cornuta" ; Times: 4
+	Query: "santa cruz specificepithet:corax genus:corvus AND (NOT UMMZ) year >= 1930 year <= 2014" ; Times: 1
+	Query: "asthenes" ; Times: 2
+	Query: "wollebaeki" ; Times: 1
+	Query: "Cheetah" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 1
+	Query: "crotalus stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "axis" ; Times: 2
+	Query: "spixii" ; Times: 1
+	Query: "Dunlin" ; Times: 2
+	Query: "Leptopelis kakamega" ; Times: 1
+	Query: "specificepithet:cryptoleucus genus:corvus year >= 1990 year <= 2014" ; Times: 1
+	Query: "yellow legged frogs" ; Times: 1
+	Query: "genus:Hapalemur" ; Times: 2
+	Query: "rhinoceros" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014 distance(location,geopoint(38.75408327579141,-95.7568359375))<454544" ; Times: 1
+	Query: "yeti" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014 distance(location,geopoint(47.55240677521587,-112.9397951066494))<553899" ; Times: 1
+	Query: "birdsong" ; Times: 1
+	Query: "tapirus" ; Times: 3
+	Query: "Zoothera citrina" ; Times: 4
+	Query: "lynx media:1" ; Times: 1
+	Query: "stateprovince:"alberta" specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 5
+	Query: "calidris ferruginea" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "ectophylla alba" ; Times: 3
+	Query: "country:"brazil" genus:poospiza" ; Times: 2
+	Query: "Aegolius ridgwayi" ; Times: 3
+	Query: "micrura" ; Times: 1
+	Query: "genus:Vultur" ; Times: 2
+	Query: "red eared slider" ; Times: 1
+	Query: "Mayrornis schistaceus" ; Times: 1
+	Query: "stateprovince:"maine" specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 1
+	Query: "stateprovince:"minas gerais" country:"brazil" class:aves" ; Times: 1
+	Query: "Wallace Good" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:cryptoleucus genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "Aepyceros melampus Aepyceros melampus country:"south africa"" ; Times: 3
+	Query: "genus:trogon year >= 2000" ; Times: 1
+	Query: "Kakamega country:"kenya" genus:leptopelis" ; Times: 1
+	Query: "stateprovince:"maryland" specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 1
+	Query: "mango" ; Times: 1
+	Query: "santa cruz specificepithet:corax genus:corvus year >= 1930 year <= 2014" ; Times: 1
+	Query: "Aegolius harrisii" ; Times: 4
+	Query: "dragonflies" ; Times: 1
+	Query: "Odonata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 437 download events in this period)
+Total number of records downloaded: 57747 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 57249
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Chile ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Panama ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 1
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-03 ; Times: 2
+	Date: 2014-07-05 ; Times: 2
+	Date: 2014-07-07 ; Times: 3
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 2
+	Date: 2014-07-11 ; Times: 2
+	Date: 2014-07-12 ; Times: 7
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 4
+	Date: 2014-07-15 ; Times: 13
+	Date: 2014-07-16 ; Times: 4
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-18 ; Times: 6
+	Date: 2014-07-21 ; Times: 1
+	Date: 2014-07-22 ; Times: 3
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-25 ; Times: 2
+	Date: 2014-07-26 ; Times: 1
+	Date: 2014-07-28 ; Times: 3
+	Date: 2014-07-29 ; Times: 4
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "mormoopidae" ; Times: 1
+	Query: "Didunculus" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Pteroptochos" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "Cheetah" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "country:"suriname"" ; Times: 1
+	Query: "canis lupus mappable:1" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "zalophus californianus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "noctilionidae" ; Times: 1
+	Query: "Connochaetes taurinus country:"SOUTH AFRICA" (Connochaetes taurinus)" ; Times: 1
+	Query: "order:Squamata mappable:1" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 2
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 1
+	Query: "natalidae" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "emballonuridae" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 2000 year <= 2014" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "phyllostomidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Microspathodon dorsalis" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "Hippopotamus amphibius country:"SOUTH AFRICA" (Hippopotamus amphibius)" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "ARA AMBIGUUS" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "vespertilionidae" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "Aepyceros melampus Aepyceros melampus country:"south africa"" ; Times: 1
+	Query: "Tragelaphus angasii country:"SOUTH AFRICA" (Tragelaphus angasii)" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "aegolius harrisii" ; Times: 1
+	Query: "Stegastes arcifrons" ; Times: 1
+	Query: ""caiman crocodilus" country:"Peru" year <= 2011" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+	Query: "Lepidothrix coronata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1601
+Total number of records retrieved from searches: 25463
+Number of download events that retrieved data from the resource: 277
+Total number of records downloaded: 277755
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1601
+Total number of records retrieved from searches: 25463
+Number of download events that retrieved data from the resource: 391
+Total number of records downloaded: 306217
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
