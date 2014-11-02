@@ -1,0 +1,305 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 275
+Number of records retrieved in searches: 5819
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Chile ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 16
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Panama ; Times: 69
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: United States ; Times: 131
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 16
+	Date: 2014-10-11 ; Times: 6
+	Date: 2014-10-12 ; Times: 2
+	Date: 2014-10-13 ; Times: 5
+	Date: 2014-10-14 ; Times: 7
+	Date: 2014-10-15 ; Times: 8
+	Date: 2014-10-16 ; Times: 17
+	Date: 2014-10-17 ; Times: 23
+	Date: 2014-10-18 ; Times: 9
+	Date: 2014-10-19 ; Times: 7
+	Date: 2014-10-20 ; Times: 44
+	Date: 2014-10-21 ; Times: 40
+	Date: 2014-10-22 ; Times: 17
+	Date: 2014-10-23 ; Times: 9
+	Date: 2014-10-24 ; Times: 10
+	Date: 2014-10-25 ; Times: 10
+	Date: 2014-10-26 ; Times: 1
+	Date: 2014-10-27 ; Times: 27
+	Date: 2014-10-28 ; Times: 3
+	Date: 2014-10-29 ; Times: 1
+	Date: 2014-10-30 ; Times: 5
+	Date: 2014-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Asthenes wyatti" ; Times: 1
+	Query: "Parulidae institutioncode:CUML" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 11
+	Query: "Zosterops everetti" ; Times: 2
+	Query: "county:"Essex" stateprovince:"New York" media:1" ; Times: 1
+	Query: "sloth" ; Times: 1
+	Query: "Veniliornis nigriceps" ; Times: 1
+	Query: "cougar concolor" ; Times: 2
+	Query: "institutioncode:cuml" ; Times: 3
+	Query: "human" ; Times: 1
+	Query: "Cercomacra manu" ; Times: 1
+	Query: "Crax rubra panama" ; Times: 1
+	Query: "Dendrocincla tyrannina" ; Times: 1
+	Query: "Schizoeca" ; Times: 1
+	Query: "Pyrrhura panama" ; Times: 7
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "genus:Orcinus" ; Times: 1
+	Query: "anfibios" ; Times: 1
+	Query: "Megascops seductus" ; Times: 1
+	Query: "Asthenes helleri" ; Times: 1
+	Query: "Anastomus oscitans" ; Times: 2
+	Query: "leptotila panama" ; Times: 6
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "institutioncode:CUML" ; Times: 1
+	Query: "Semnornis" ; Times: 1
+	Query: "tetraogallus" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Patagioenas nigrirostris panama" ; Times: 1
+	Query: "Ortygospiza fuscocrissa" ; Times: 1
+	Query: "snow leopard" ; Times: 1
+	Query: "semnornis" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "stateprovince:"colorado" institutioncode:CUML" ; Times: 2
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "Semnornis year >= 1985 year <= 2014" ; Times: 1
+	Query: "speothos" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "testing" ; Times: 1
+	Query: "Aratinga panama" ; Times: 13
+	Query: "ramphotrigon" ; Times: 3
+	Query: "Lacedo pulchella" ; Times: 1
+	Query: "verditer flycatcher" ; Times: 2
+	Query: "monster" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "mute swan" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "duck billed" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: ""Big-nose unicorn"" ; Times: 1
+	Query: "antilocapra media:1" ; Times: 1
+	Query: "mamiferos" ; Times: 1
+	Query: "Chinese water dragon" ; Times: 1
+	Query: "biogeographic" ; Times: 1
+	Query: ""Thamnophilus nigrocinereus"" ; Times: 3
+	Query: "occurence species" ; Times: 1
+	Query: "columba nigrirostris panama" ; Times: 1
+	Query: "dwarf" ; Times: 2
+	Query: "family:turdidae (country:colombia OR country:ecuador) mappable:1" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "bubalornis" ; Times: 1
+	Query: "balaenoptera media:1" ; Times: 14
+	Query: "Aratinga finschi panama" ; Times: 3
+	Query: "Penelope dabbenei" ; Times: 1
+	Query: "Cyanocorax violaceus" ; Times: 2
+	Query: "balaenoptera musculus" ; Times: 2
+	Query: "Sicalis olivascens" ; Times: 1
+	Query: "beluga quebec" ; Times: 1
+	Query: "I see dead people" ; Times: 3
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "institutioncode:cuml catalognumber:137994" ; Times: 2
+	Query: "Ostracion meleagris" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Ortygospiza atricollis" ; Times: 1
+	Query: "Asthenes sclateri" ; Times: 1
+	Query: "zonotrichia capensis country:"Argentina"" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Ara panama" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus year >= 1954 year <= 1984" ; Times: 1
+	Query: ""white-throated sparrow"" ; Times: 2
+	Query: "Galloperdix bicalcarata" ; Times: 1
+	Query: "CUML media:1" ; Times: 2
+	Query: "occurence data species" ; Times: 1
+	Query: "ara panama" ; Times: 3
+	Query: "family:turdidae country:"colombia" mappable:1" ; Times: 1
+	Query: "hosner" ; Times: 3
+	Query: "lafresnayi" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:corax genus:corvus AND (NOT egg NOT eggs) year >= 1954 year <= 1984" ; Times: 1
+	Query: "blue whale" ; Times: 5
+	Query: "halloween" ; Times: 3
+	Query: "melanitta cornell" ; Times: 1
+	Query: "fuliginosa meruloides" ; Times: 1
+	Query: "Alligator mississippiensis texas" ; Times: 2
+	Query: "urocissa" ; Times: 1
+	Query: "Canadian Moose" ; Times: 1
+	Query: "tarsier" ; Times: 2
+	Query: ""Tadorna"" ; Times: 1
+	Query: "Chamaepetes unicolor panama" ; Times: 1
+	Query: "Crocuta crocuta mappable:1" ; Times: 1
+	Query: "Eleutherodactylus auriculatus" ; Times: 1
+	Query: "Epinecrophylla ornata" ; Times: 1
+	Query: "odontophorus gujanensis" ; Times: 1
+	Query: "rallidae panama" ; Times: 1
+	Query: "crax rubra panama" ; Times: 1
+	Query: "bucerotidae cornell" ; Times: 4
+	Query: "Ivory-billed woodpecker" ; Times: 1
+	Query: "chamaepetes unicolor" ; Times: 10
+	Query: "Ortalis superciliaris" ; Times: 1
+	Query: "geositta cornell" ; Times: 2
+	Query: "Tetraogallus caspius" ; Times: 1
+	Query: "demon" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "Ara ararauna panama" ; Times: 1
+	Query: "Setophaga ruticilla institutioncode:CUML" ; Times: 1
+	Query: "animal biogeographic" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "Myrmotherula ornata" ; Times: 1
+	Query: "genus:turdus country:colombia mappable:1" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "Dendrocincla anabatina" ; Times: 3
+	Query: "opisthocomidae" ; Times: 1
+	Query: "Cyanocorax cyanomelas" ; Times: 1
+	Query: "canadian lynx" ; Times: 2
+	Query: "cracidae panama" ; Times: 9
+	Query: "Campylopterus hemileucurus panama" ; Times: 2
+	Query: "Schizoeca helleri" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "odontophorus panama" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "odontophorus gujanensis panama" ; Times: 1
+	Query: "Formicarius colma" ; Times: 2
+	Query: "acari" ; Times: 2
+	Query: "Foulehaio carunculata" ; Times: 1
+	Query: "Patagioenas panama" ; Times: 1
+	Query: "grus canadensis (alaska)" ; Times: 1
+	Query: "calyptorhynchus cornell" ; Times: 1
+	Query: "pionus" ; Times: 3
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "himalayan bluetail" ; Times: 1
+	Query: "stateprovince:"colorado" specificepithet:corax genus:corvus year >= 1984 year <= 2014" ; Times: 1
+	Query: "Tachuris rubrigastra" ; Times: 1
+	Query: "Chen caerulescens media:1" ; Times: 1
+	Query: "Granatellus venustus" ; Times: 1
+	Query: "Hemicircus" ; Times: 2
+	Query: "crax rubra" ; Times: 3
+	Query: "genus:baeolophus institutioncode:CUML media:1" ; Times: 1
+	Query: "Crypturellus noctivagus" ; Times: 1
+	Query: "nothoprocta" ; Times: 1
+	Query: "Cyanolyca pulchra" ; Times: 1
+	Query: "semnornis year >= 1990 year <= 2014" ; Times: 1
+	Query: "la cumbre de autlan" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 166 download events in this period)
+Total number of records downloaded: 11599 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11174
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 1
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 4
+	Date: 2014-10-14 ; Times: 2
+	Date: 2014-10-16 ; Times: 5
+	Date: 2014-10-17 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-22 ; Times: 2
+	Date: 2014-10-23 ; Times: 3
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 6
+	Date: 2014-10-27 ; Times: 5
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "Parulidae institutioncode:CUML" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "Setophaga ruticilla institutioncode:CUML" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "dendrortyx" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "specificepithet:montezumae" ; Times: 1
+	Query: ""yellow-billed cuckoo"" ; Times: 2
+	Query: "Formicarius colma" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"Texas" class:Amphibia year >= 1888 year <= 2014" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Dark-eyed Junco" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "alligator mississippiensis" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 2
+	Query: "momotus" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Crocuta crocuta mappable:1" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "passer montanus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "Onychomys leucogaster mappable:1" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2482
+Total number of records retrieved from searches: 40303
+Number of download events that retrieved data from the resource: 427
+Total number of records downloaded: 318274
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2482
+Total number of records retrieved from searches: 40303
+Number of download events that retrieved data from the resource: 541
+Total number of records downloaded: 346736
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
