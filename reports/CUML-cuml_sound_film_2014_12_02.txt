@@ -1,0 +1,215 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 4122
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 36
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 3
+	Country: Germany ; Times: 10
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Panama ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 106
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 6
+	Date: 2014-11-02 ; Times: 3
+	Date: 2014-11-03 ; Times: 3
+	Date: 2014-11-04 ; Times: 6
+	Date: 2014-11-05 ; Times: 10
+	Date: 2014-11-06 ; Times: 7
+	Date: 2014-11-07 ; Times: 7
+	Date: 2014-11-08 ; Times: 1
+	Date: 2014-11-09 ; Times: 2
+	Date: 2014-11-10 ; Times: 4
+	Date: 2014-11-11 ; Times: 4
+	Date: 2014-11-12 ; Times: 5
+	Date: 2014-11-13 ; Times: 34
+	Date: 2014-11-14 ; Times: 4
+	Date: 2014-11-15 ; Times: 6
+	Date: 2014-11-16 ; Times: 2
+	Date: 2014-11-17 ; Times: 13
+	Date: 2014-11-18 ; Times: 3
+	Date: 2014-11-19 ; Times: 4
+	Date: 2014-11-20 ; Times: 3
+	Date: 2014-11-21 ; Times: 5
+	Date: 2014-11-22 ; Times: 4
+	Date: 2014-11-23 ; Times: 1
+	Date: 2014-11-24 ; Times: 12
+	Date: 2014-11-25 ; Times: 15
+	Date: 2014-11-26 ; Times: 4
+	Date: 2014-11-27 ; Times: 5
+	Date: 2014-11-28 ; Times: 5
+	Date: 2014-11-29 ; Times: 7
+	Date: 2014-11-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "elaenia chiriquensis guyana" ; Times: 1
+	Query: "chelonoidis nigra" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "Syncerus" ; Times: 1
+	Query: "hooded warbler" ; Times: 3
+	Query: "northern saw-whet owl" ; Times: 3
+	Query: "citrine wagtail" ; Times: 1
+	Query: "Tropidophis" ; Times: 2
+	Query: "Hypocnemoides" ; Times: 2
+	Query: "Syncerus mappable:1" ; Times: 1
+	Query: "Canis latrans stateprovince:"Indiana"" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 2
+	Query: "zooplankton" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+	Query: "Hemispingus rufosuperciliaris" ; Times: 1
+	Query: "aves brehm" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "geotrygon violacea" ; Times: 1
+	Query: "coiba" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 2
+	Query: "geothlypis trichas country:"cuba"" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Dactylomys" ; Times: 1
+	Query: "cuml" ; Times: 1
+	Query: "bangsia" ; Times: 1
+	Query: "Melozone crissalis year >= 1950 year <= 1979" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "mamba" ; Times: 1
+	Query: "Surf scoter" ; Times: 1
+	Query: "black widow" ; Times: 3
+	Query: "gibbon" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 2
+	Query: "mesitornithidae" ; Times: 1
+	Query: "todidae" ; Times: 2
+	Query: "do honey bees pollinate flowers" ; Times: 1
+	Query: "honey bees" ; Times: 2
+	Query: "Phyllomyias uropygialis" ; Times: 1
+	Query: "sylvilagus year >= 2010" ; Times: 1
+	Query: "california king snake" ; Times: 1
+	Query: "ghost institutioncode:cuml" ; Times: 4
+	Query: "Black scoter" ; Times: 1
+	Query: "Herbarium" ; Times: 1
+	Query: "hawk mountain" ; Times: 2
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "elaenia flavogaster guyana" ; Times: 1
+	Query: "Arachnothera juliae" ; Times: 1
+	Query: "Loxia curvirostra Connecticut" ; Times: 1
+	Query: "specificepithet:ingens year >= 1950 year <= 2014" ; Times: 1
+	Query: "Grallaria eludens" ; Times: 1
+	Query: "Cardiidae" ; Times: 1
+	Query: "harbor seal haul out" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "I see dead people" ; Times: 2
+	Query: "anthus nattereri" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 2
+	Query: ""Heterocercus aurantiivertex"" ; Times: 1
+	Query: "Barnardius" ; Times: 1
+	Query: "Grallaricula peruviana" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "where do red wolves occur" ; Times: 1
+	Query: "Ceyx fallax" ; Times: 1
+	Query: "hawk mountain pa" ; Times: 1
+	Query: "Yellow-billed Cuckoo" ; Times: 1
+	Query: "kit fox" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "nutria mammalia" ; Times: 2
+	Query: "mellivora" ; Times: 1
+	Query: "Araneae" ; Times: 1
+	Query: "Formicidae" ; Times: 2
+	Query: "phacochoerus" ; Times: 1
+	Query: "african elephant" ; Times: 2
+	Query: "the eye of mine" ; Times: 1
+	Query: "Poospiza garleppi" ; Times: 1
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: "owl feathers" ; Times: 1
+	Query: "galapagos tortoise" ; Times: 2
+	Query: "Prunella himalayana" ; Times: 1
+	Query: "morphnus" ; Times: 1
+	Query: "gymnopithys rufigula" ; Times: 3
+	Query: "homo sapiens" ; Times: 3
+	Query: "grallaria flavotincta" ; Times: 1
+	Query: "Anas andium" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus AND (alaska) year >= 1990 year <= 2014" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus AND (not alaska) year >= 1990 year <= 2014" ; Times: 1
+	Query: "asthenes urubambensis ku" ; Times: 1
+	Query: "salvadorina" ; Times: 1
+	Query: "cardinalis cardinalis stateprovince:"Ohio" media:1" ; Times: 1
+	Query: "eire" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "class:Insecta" ; Times: 1
+	Query: ""Dolospingus fringilloides"" ; Times: 1
+	Query: "Canis latrans stateprovince:"Indiana" year >= 1800 year <= 2014" ; Times: 1
+	Query: ""Myrmeciza disjuncta"" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: "parotia" ; Times: 1
+	Query: "specificepithet:melanotos genus:Calidris media:1" ; Times: 1
+	Query: "elaenia chiriquensis" ; Times: 1
+	Query: "white-eyed vireo" ; Times: 3
+	Query: "Boa constrictor" ; Times: 1
+	Query: "wolverine location" ; Times: 1
+	Query: "hawaiian monk seal" ; Times: 3
+	Query: "Blue whale" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 3
+	Query: "pionus" ; Times: 2
+	Query: "ninox scutulata" ; Times: 1
+	Query: "Northern Saw-whet" ; Times: 29
+	Query: "grallaria capitalis" ; Times: 1
+	Query: "Big Sandy River 1981" ; Times: 1
+	Query: "elaenia ruficeps" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "anairetes alpinus" ; Times: 3
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 4
+	Query: "lepidothrix nattereri" ; Times: 1
+	Query: "Melamprosops phaeosoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2671
+Total number of records retrieved from searches: 44425
+Number of download events that retrieved data from the resource: 427
+Total number of records downloaded: 318274
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2671
+Total number of records retrieved from searches: 44425
+Number of download events that retrieved data from the resource: 541
+Total number of records downloaded: 346736
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
