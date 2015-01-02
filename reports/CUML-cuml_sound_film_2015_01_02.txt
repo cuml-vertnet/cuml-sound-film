@@ -1,0 +1,287 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 256
+Number of records retrieved in searches: 5739
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 8
+	Country: France ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 25
+	Country: Namibia ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 175
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 32
+	Date: 2014-12-02 ; Times: 13
+	Date: 2014-12-03 ; Times: 20
+	Date: 2014-12-04 ; Times: 14
+	Date: 2014-12-05 ; Times: 9
+	Date: 2014-12-06 ; Times: 10
+	Date: 2014-12-07 ; Times: 5
+	Date: 2014-12-08 ; Times: 20
+	Date: 2014-12-09 ; Times: 16
+	Date: 2014-12-10 ; Times: 6
+	Date: 2014-12-11 ; Times: 10
+	Date: 2014-12-12 ; Times: 9
+	Date: 2014-12-13 ; Times: 1
+	Date: 2014-12-14 ; Times: 6
+	Date: 2014-12-15 ; Times: 1
+	Date: 2014-12-16 ; Times: 11
+	Date: 2014-12-17 ; Times: 9
+	Date: 2014-12-18 ; Times: 3
+	Date: 2014-12-19 ; Times: 12
+	Date: 2014-12-20 ; Times: 4
+	Date: 2014-12-22 ; Times: 14
+	Date: 2014-12-23 ; Times: 1
+	Date: 2014-12-24 ; Times: 2
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-26 ; Times: 13
+	Date: 2014-12-27 ; Times: 3
+	Date: 2014-12-28 ; Times: 1
+	Date: 2014-12-30 ; Times: 5
+	Date: 2014-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Nasua narica year >= 1995 year <= 2014" ; Times: 2
+	Query: "genus:pionus" ; Times: 8
+	Query: "Colibri thalassinus" ; Times: 15
+	Query: "daphoenositta year >= 1990 year <= 2014" ; Times: 1
+	Query: "institutioncode:cuml" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sitta media:1" ; Times: 2
+	Query: "bird nesting galapagos" ; Times: 1
+	Query: "chamaeza" ; Times: 3
+	Query: "Ash-throated flycatcher" ; Times: 2
+	Query: "galapagos bird nesting mappable:1" ; Times: 1
+	Query: "Wombat" ; Times: 1
+	Query: "Lithobates catesbeianus year >= 2004 year <= 2004" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "Andigena laminirostris" ; Times: 3
+	Query: "Pteronura" ; Times: 1
+	Query: "careers" ; Times: 1
+	Query: "buff-breasted sandpiper" ; Times: 5
+	Query: "Yellow Mud Turtle" ; Times: 1
+	Query: "(reptile skulls)" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 3
+	Query: "Anisognathus notabilis" ; Times: 5
+	Query: "cebus capucinus" ; Times: 2
+	Query: "pig sounds" ; Times: 2
+	Query: "neuroptera" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 3
+	Query: "Mountain lions" ; Times: 1
+	Query: "institutioncode:CUML" ; Times: 2
+	Query: "467365" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "distichlis" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 3
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "red squirrel" ; Times: 1
+	Query: "borror" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "primate" ; Times: 1
+	Query: "apis mellifera" ; Times: 1
+	Query: "Serinus canaria year >= 1990 year <= 2014" ; Times: 1
+	Query: "hyla arenicolor country:"mexico" mappable:1" ; Times: 1
+	Query: "common five-lined skink" ; Times: 2
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "Yellow Rail" ; Times: 2
+	Query: "oriolus "new guinea" new guinea year >= 1990 year <= 2014" ; Times: 1
+	Query: "elephantidae" ; Times: 1
+	Query: "mollusk" ; Times: 1
+	Query: "CUML Sound/Film 165372" ; Times: 1
+	Query: "white-breasted nuthatch" ; Times: 2
+	Query: "alytes obstetricans" ; Times: 1
+	Query: "brown hyena" ; Times: 1
+	Query: "falco deiroleucus" ; Times: 8
+	Query: "red salamander" ; Times: 1
+	Query: "plegadis falcinellus" ; Times: 1
+	Query: "oriolus new guinea year >= 1990 year <= 2014" ; Times: 1
+	Query: "Equus quagga" ; Times: 5
+	Query: "sublegatus modestus" ; Times: 3
+	Query: "Serinus canaria" ; Times: 3
+	Query: "fox sparrow type:observation media:1" ; Times: 12
+	Query: "Brigham Young University" ; Times: 1
+	Query: "queen snake" ; Times: 1
+	Query: "jobs" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "stateprovince:"kansas" country:"United States" specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Purple Martin" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 5
+	Query: "kelloggii" ; Times: 1
+	Query: "antelope ground squirrel" ; Times: 1
+	Query: "sea lion" ; Times: 2
+	Query: "oreostruthus year >= 1990 year <= 2014" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "puma concolor stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "otters" ; Times: 3
+	Query: "papio" ; Times: 1
+	Query: "Euplectes macroura" ; Times: 1
+	Query: "Sand boa" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 15
+	Query: "Lithobates catesbeianus year >= 2003 year <= 2004" ; Times: 1
+	Query: "class:mammalia syndactylus" ; Times: 1
+	Query: "Megascops choliba" ; Times: 3
+	Query: "euphonia cyanocephala" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "collared peccary" ; Times: 1
+	Query: "anaxyrus canorus" ; Times: 3
+	Query: "frog media:1" ; Times: 1
+	Query: "colombia "manacus"" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:ICTERUS" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "albolabris year >= 1990 year <= 2014" ; Times: 1
+	Query: "stateprovince:"California" (Lithobates catesbeianus)" ; Times: 2
+	Query: "aleadryas year >= 1990 year <= 2014" ; Times: 1
+	Query: "type:observation stateprovince:"california" country:"united states" specificepithet:carolinensis genus:sitta year >= 1960 year <= 2014 media:1" ; Times: 1
+	Query: "genus:empidonax specificepithet:occidentalis stateprovince:new mexico" ; Times: 1
+	Query: "passerina rositae" ; Times: 1
+	Query: "Black-legged Kittiwake" ; Times: 2
+	Query: "hylobates" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "puma connecticut" ; Times: 2
+	Query: "papio year >= 1990 year <= 2014" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 1
+	Query: "mino new year >= 1990 year <= 2014" ; Times: 1
+	Query: "coracina year >= 1990 year <= 2014" ; Times: 1
+	Query: "genus:ICTERUS year >= 1964 year <= 2014 distance(location,geopoint(21.94304553343818,-70.224609375))<778053" ; Times: 1
+	Query: "type:observation stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "elaenia frantzii" ; Times: 1
+	Query: "genus:ziphius" ; Times: 2
+	Query: "ivory billed" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "Falco sparverius (oregon)" ; Times: 2
+	Query: "canada rana sylvatica" ; Times: 1
+	Query: "type:observation stateprovince:"colorado" country:"united states" specificepithet:carolinensis genus:sitta year >= 1960 year <= 2014 media:1" ; Times: 1
+	Query: "stateprovince:"Nunavut" class:Aves" ; Times: 1
+	Query: "megascops asio mexico" ; Times: 2
+	Query: "eira barbara" ; Times: 3
+	Query: "Thalassoma duperrey" ; Times: 1
+	Query: "Aonyx" ; Times: 1
+	Query: "wild turkey wing" ; Times: 1
+	Query: "puma new york" ; Times: 1
+	Query: "sciurus carolinensis stateprovince:"california" mappable:1" ; Times: 1
+	Query: "oriolus new guinea new guinea year >= 1990 year <= 2014" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:ICTERUS year >= 1964 year <= 2014" ; Times: 1
+	Query: "formicivora rufa" ; Times: 1
+	Query: "asthenes vilcabambae" ; Times: 1
+	Query: "Leopard gecko" ; Times: 2
+	Query: "pionus" ; Times: 2
+	Query: "Apis mellifera" ; Times: 1
+	Query: "chimpanzee" ; Times: 1
+	Query: "ruwenzorii" ; Times: 2
+	Query: "country:"guatemala" specificepithet:ciris genus:passerina" ; Times: 1
+	Query: "gyrfalcon" ; Times: 1
+	Query: "cumv seeholzer" ; Times: 3
+	Query: "stateprovince:"Para" country:"Brazil" genus:Alouatta" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "country:"guatemala" (picidae)" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "okapi" ; Times: 1
+	Query: "mino year >= 1990 year <= 2014" ; Times: 2
+	Query: "Plethodon cinereus type:observation" ; Times: 2
+	Query: "Puma concolor new york" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 238 download events in this period)
+Total number of records downloaded: 4183 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3772
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-02 ; Times: 1
+	Date: 2014-12-03 ; Times: 6
+	Date: 2014-12-04 ; Times: 3
+	Date: 2014-12-05 ; Times: 1
+	Date: 2014-12-06 ; Times: 1
+	Date: 2014-12-08 ; Times: 2
+	Date: 2014-12-09 ; Times: 1
+	Date: 2014-12-10 ; Times: 2
+	Date: 2014-12-15 ; Times: 1
+	Date: 2014-12-16 ; Times: 2
+	Date: 2014-12-20 ; Times: 1
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-24 ; Times: 4
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-26 ; Times: 1
+	Date: 2014-12-28 ; Times: 1
+	Date: 2014-12-30 ; Times: 1
+	Date: 2014-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyanocompsa brissonii" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Spermophilus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "genus:Pterois" ; Times: 1
+	Query: ""spea intermontana" mappable:1" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "fox sparrow type:observation media:1" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves" ; Times: 1
+	Query: "sciurus carolinensis stateprovince:"california" mappable:1" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "megascops asio" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" class:amphibia mappable:1" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Ohio" class:Aves" ; Times: 1
+	Query: "aphelocoma coerulescens stateprovince:"Florida"" ; Times: 1
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:Aves mappable:1" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "county:"Navajo" stateprovince:"Arizona"" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "elaenia frantzii" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2927
+Total number of records retrieved from searches: 50164
+Number of download events that retrieved data from the resource: 493
+Total number of records downloaded: 323859
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2927
+Total number of records retrieved from searches: 50164
+Number of download events that retrieved data from the resource: 607
+Total number of records downloaded: 352321
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
