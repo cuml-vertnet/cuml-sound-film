@@ -1,0 +1,521 @@
+Report for Institution Code CUML, Resource cuml_sound_film
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 456
+Number of records retrieved in searches: 6773
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 110
+	Country: Canada ; Times: 9
+	Country: Costa Rica ; Times: 1
+	Country: Cyprus ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Finland ; Times: 1
+	Country: France ; Times: 8
+	Country: Germany ; Times: 22
+	Country: India ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Panama ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Thailand ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 244
+	Country: Unknown ; Times: 15
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 18
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 19
+	Date: 2015-03-04 ; Times: 19
+	Date: 2015-03-05 ; Times: 32
+	Date: 2015-03-06 ; Times: 18
+	Date: 2015-03-07 ; Times: 22
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 6
+	Date: 2015-03-10 ; Times: 24
+	Date: 2015-03-11 ; Times: 44
+	Date: 2015-03-12 ; Times: 32
+	Date: 2015-03-13 ; Times: 29
+	Date: 2015-03-14 ; Times: 4
+	Date: 2015-03-15 ; Times: 12
+	Date: 2015-03-16 ; Times: 36
+	Date: 2015-03-17 ; Times: 10
+	Date: 2015-03-18 ; Times: 12
+	Date: 2015-03-19 ; Times: 9
+	Date: 2015-03-20 ; Times: 19
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-23 ; Times: 9
+	Date: 2015-03-24 ; Times: 15
+	Date: 2015-03-25 ; Times: 10
+	Date: 2015-03-26 ; Times: 13
+	Date: 2015-03-27 ; Times: 11
+	Date: 2015-03-28 ; Times: 8
+	Date: 2015-03-29 ; Times: 8
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanea genus:Pitta" ; Times: 1
+	Query: "Dinemelli" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "strigilatus" ; Times: 1
+	Query: "ramphastos vitellinus ariel" ; Times: 1
+	Query: "dactylortyx thoracicus tamaulipas" ; Times: 1
+	Query: "country:"bolivia" genus:alouatta" ; Times: 1
+	Query: "red sided garter snake" ; Times: 1
+	Query: "ramphastos ariel" ; Times: 2
+	Query: "stactolaema olivacea" ; Times: 2
+	Query: "Callipepla douglasii year >= 1990 year <= 2015" ; Times: 1
+	Query: "Frederickena unduliger" ; Times: 1
+	Query: "Phegornis mitchellii" ; Times: 1
+	Query: "Montezuma quail year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "chamaeza" ; Times: 1
+	Query: "Chamaeza nobilis brazil" ; Times: 1
+	Query: "Cercomacra manu" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 2
+	Query: "genus:Natalus year >= 2000" ; Times: 1
+	Query: "LEPIDOTHRIX CORONATA country:"costa rica"" ; Times: 1
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "Sclerurus mexicanus brazil" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: ""Chaetura vauxi" country:"Venezuela"" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "county:"Pima" stateprovince:"Arizona" country:"United States" genus:crotalus" ; Times: 1
+	Query: "thailand elephants mappable:1" ; Times: 3
+	Query: "crotalus atrox tucson" ; Times: 1
+	Query: "Cotinga" ; Times: 1
+	Query: "Ortalis columbiana" ; Times: 2
+	Query: "xiph" ; Times: 1
+	Query: "Chiroptera (chiroptera or bats or bat) year >= 1500 year <= 2015" ; Times: 1
+	Query: "paradoxornis nipalensis" ; Times: 7
+	Query: "chiroptera madagascar" ; Times: 1
+	Query: "aves punctulatus" ; Times: 2
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "map tab" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "Megalaima faiostricta Thailand" ; Times: 1
+	Query: "francolinus ahantensis year >= 1990 year <= 2015" ; Times: 1
+	Query: "speluncae" ; Times: 3
+	Query: "Sclerurus rufigularis brazil" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "myrmornis brazil" ; Times: 2
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Odocoileus virginianus year >= 1990 year <= 2015" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 1
+	Query: "manacus manacus country:"brazil"" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "yapacana" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "leptocoma zeylonica" ; Times: 1
+	Query: "crawfish frog" ; Times: 1
+	Query: "mynah" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: "blue marlin" ; Times: 1
+	Query: "country:"vanuatu" class:aves year >= 1990 year <= 2015" ; Times: 3
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Odontophorus melanotis" ; Times: 2
+	Query: "sea turtle" ; Times: 1
+	Query: "parotia wahnesi" ; Times: 7
+	Query: "Leptocoma sperata" ; Times: 1
+	Query: "cinnyricinclus leucogaster" ; Times: 3
+	Query: "scrippsi" ; Times: 2
+	Query: "american pika" ; Times: 1
+	Query: "harpagus diodon" ; Times: 1
+	Query: "astrapia year >= 1990 year <= 2015" ; Times: 2
+	Query: "roseate spoonbill" ; Times: 6
+	Query: "guanaco" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 2
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "Ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: "tricholestes" ; Times: 1
+	Query: "poeoptera lugubris" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "Sclerurus caudacutus brazil" ; Times: 2
+	Query: "lepidothrix coronata country:"ecuador"" ; Times: 1
+	Query: "rhodopechys" ; Times: 1
+	Query: "francolinus psilolaemus" ; Times: 1
+	Query: "Formicarius colma brazil" ; Times: 1
+	Query: "Cacicus koepckeae" ; Times: 1
+	Query: "sharpii" ; Times: 2
+	Query: "lamprotornis caudatus" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 3
+	Query: "Myrmoborus myotherinus brazil" ; Times: 1
+	Query: "Megaxenops parnaguae" ; Times: 3
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "andropadus virens" ; Times: 1
+	Query: "Cercopithecus" ; Times: 1
+	Query: "Conopophaga melanogaster" ; Times: 1
+	Query: "african turtle dove" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "Zaratornis stresemanni" ; Times: 1
+	Query: "Piping Plover" ; Times: 2
+	Query: "pauxi unicornis" ; Times: 2
+	Query: "Poicephalus kenya" ; Times: 2
+	Query: "Psilorhamphus guttatus" ; Times: 2
+	Query: "Cercomacra laeta brazil" ; Times: 2
+	Query: "specificepithet:elegans genus:Pitta" ; Times: 4
+	Query: "francolinus icterorhynchus year >= 1950 year <= 2015" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "zantholeuca Thailand" ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 2
+	Query: "rufifacies brazil" ; Times: 1
+	Query: "terenura maculata brazil" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "Panthera onca United States" ; Times: 2
+	Query: "odontophorus year >= 1980 year <= 2015" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Laniarius aethiopicus" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "Pitta granatina" ; Times: 1
+	Query: "Rhegmatorhina melanosticta" ; Times: 1
+	Query: "cottonmouth" ; Times: 1
+	Query: "Formicarius rufifrons" ; Times: 1
+	Query: "reptile long island new guinea" ; Times: 1
+	Query: "manacus manacus abditivus" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Grallaria eludens" ; Times: 1
+	Query: "United States canis lupus year >= 2000 year <= 2015 mappable:1" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 2
+	Query: "Butorides sundevalli" ; Times: 2
+	Query: "mitu brazil" ; Times: 1
+	Query: "Molothrus oryzivora" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Liosceles thoracicus brazil" ; Times: 1
+	Query: "macropygia emiliana" ; Times: 1
+	Query: "mitu salvini" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "Hypocnemis peruviana" ; Times: 1
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "francolinus bicalcaratus year >= 1990 year <= 2015" ; Times: 1
+	Query: "orangutan" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "LEPIDOTHRIX CORONATA country:"panama"" ; Times: 1
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "Trogon rufus" ; Times: 2
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "Pycnonotus flaviventris Thailand" ; Times: 1
+	Query: "Drymophila rubricollis" ; Times: 1
+	Query: "myrmoborus lugubris" ; Times: 1
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "rhynchortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "Rhegmatorhina hoffmannsi" ; Times: 2
+	Query: "Merulaxis ater" ; Times: 1
+	Query: "Myrmochanes hemileucus" ; Times: 1
+	Query: "specificepithet:granatina genus:Pitta" ; Times: 1
+	Query: "gray wolf" ; Times: 1
+	Query: ""francolinus francolinus" year >= 1990 year <= 2015" ; Times: 1
+	Query: "Ortalis brazil" ; Times: 1
+	Query: "Scytalopus iraiensis" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "dendrortyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "Hylophylax naevius brazil" ; Times: 1
+	Query: "lamprotornis splendidus" ; Times: 3
+	Query: "cuttlefish" ; Times: 1
+	Query: "chiroptera gabon" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "furnarius minor" ; Times: 2
+	Query: "Melanopareia torquata brazil" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax" ; Times: 1
+	Query: "Drymophila genei" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "Pyriglena leucoptera brazil" ; Times: 1
+	Query: "Arborophila hyperythra" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: ""Francolinus coqui" year >= 1990 year <= 2015" ; Times: 1
+	Query: "Arctocephalus philippii" ; Times: 2
+	Query: "Rhopornis ardesiacus" ; Times: 1
+	Query: "Arborophila rubrirostris" ; Times: 1
+	Query: "macgregoria" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "brown-headed nuthatch" ; Times: 2
+	Query: "Cercomacra nigrescens brazil" ; Times: 2
+	Query: "Pseudorca crassidens" ; Times: 1
+	Query: "grizzly bear" ; Times: 2
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "Cercomacra cinerascens brazil" ; Times: 2
+	Query: "specificepithet:gigantea genus:grallaria" ; Times: 1
+	Query: "dendrortyx barbatus" ; Times: 2
+	Query: "oklahoma hemiptera" ; Times: 1
+	Query: "specificepithet:fossii genus:caprimulgus" ; Times: 1
+	Query: "dahli AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "rufipes" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "canis lupis" ; Times: 1
+	Query: "country:"panama" (thryothorus modestus)" ; Times: 1
+	Query: "Conopophaga peruviana" ; Times: 1
+	Query: "cynomys mexicanus" ; Times: 1
+	Query: "brachygalba lugubris" ; Times: 1
+	Query: "gallus lafayetii" ; Times: 3
+	Query: "dendrexetastes" ; Times: 1
+	Query: "hypocnemoides" ; Times: 2
+	Query: "amazona amazonica mato grosso" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 5
+	Query: "Stigmatura" ; Times: 1
+	Query: "mitu mato grosso" ; Times: 1
+	Query: "Cercomacra manu brazil" ; Times: 1
+	Query: "Aplonis metallica year >= 1980 year <= 2015" ; Times: 1
+	Query: "Harpyhaliaetus solitarius" ; Times: 1
+	Query: "aix sponsa media:1" ; Times: 1
+	Query: "Myrmothera campanisona brazil" ; Times: 1
+	Query: "Semioptera year >= 1980 year <= 2015" ; Times: 1
+	Query: "machaeropterus" ; Times: 1
+	Query: "knipolegus orenocensis" ; Times: 2
+	Query: "francolinus bicalcaratus year >= 1950 year <= 2015" ; Times: 2
+	Query: "schiffornis major brazil" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 2
+	Query: "(Caiman) media:1" ; Times: 1
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "machaeropterus deliciosus" ; Times: 1
+	Query: "Arborophila charltonii" ; Times: 1
+	Query: ""rhipidura rufifrons" media:1" ; Times: 3
+	Query: "Evans stateprovince:"New York"" ; Times: 4
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "colinus country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "odontophorus melanotis" ; Times: 2
+	Query: "Pyriglena atra" ; Times: 1
+	Query: "Myrmoborus leucophrys brazil" ; Times: 1
+	Query: "colinus venezuela" ; Times: 1
+	Query: "Aegolius ridgwayi tacanensis" ; Times: 1
+	Query: ""Hylopezus ochroleucus"" ; Times: 1
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "Ortalis superciliaris" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" year >= 1970 year <= 2015" ; Times: 1
+	Query: "Odontophorus columbianus" ; Times: 1
+	Query: "specificepithet:brachyura genus:Chaetura" ; Times: 6
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 2
+	Query: "cyrtonyx year >= 1980 year <= 2015" ; Times: 1
+	Query: "onychognathus morio" ; Times: 1
+	Query: "Aplonis metallica year >= 1990 year <= 2015" ; Times: 1
+	Query: "Machaeropterus deliciosus" ; Times: 1
+	Query: "Hypocnemoides melanopogon brazil" ; Times: 1
+	Query: "crax daubentoni" ; Times: 1
+	Query: "Ciccaba" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "aotus" ; Times: 1
+	Query: "Eleutherodactylus auriculatus" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "Stigmatura budytoides" ; Times: 1
+	Query: "advanced search" ; Times: 1
+	Query: "Schistocichla saturata" ; Times: 1
+	Query: "sooty grouse" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 3
+	Query: "ptilinopus solomonensis year >= 1990 year <= 2015" ; Times: 1
+	Query: "Campylorhamphus media:1" ; Times: 1
+	Query: "Myrmeciza pelzelni" ; Times: 1
+	Query: "Ptilinopus solomonensis year >= 1980 year <= 2015" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "Trachycephalus resinifictrix media:1" ; Times: 2
+	Query: "stateprovince:"Chiapas" country:"Mexico" class:aves year >= 1990 year <= 2010" ; Times: 4
+	Query: "Scytalopus pachecoi" ; Times: 1
+	Query: "Drymophila devillei brazil" ; Times: 1
+	Query: "Aratinga cactorum" ; Times: 1
+	Query: "Myrmeciza ruficauda" ; Times: 1
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "Montezuma quail country:"Mexico" year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "Odontophorus balliviani" ; Times: 1
+	Query: "globicephala melas audio" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "southwestern willow flycatcher" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "Megascops seductus" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "lampropeltis getula holbrooki" ; Times: 1
+	Query: "Myrmeciza atrothorax brazil" ; Times: 1
+	Query: "460146" ; Times: 1
+	Query: "Drymophila squamata" ; Times: 1
+	Query: "panthera pardus" ; Times: 23
+	Query: "ptilinopus superbus year >= 1990 year <= 2015" ; Times: 1
+	Query: ""grus grus"" ; Times: 1
+	Query: "United States Montana canis lupus year >= 2000 year <= 2015 mappable:1" ; Times: 1
+	Query: "Lanius cristatus Thailand" ; Times: 1
+	Query: "pauxi" ; Times: 1
+	Query: "coris aygula" ; Times: 1
+	Query: "tricholaema" ; Times: 1
+	Query: "saltator rufiventris" ; Times: 2
+	Query: "accipiter poliogaster" ; Times: 8
+	Query: "saroglossa aurata" ; Times: 1
+	Query: "Eleoscytalopus indigoticus" ; Times: 1
+	Query: "Odontophorus speciosus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Leptocoma brasiliana" ; Times: 1
+	Query: "Formicarius analis brazil" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax" ; Times: 1
+	Query: "Myrmeciza berlepschi" ; Times: 2
+	Query: "hylopezus macularius brazil" ; Times: 1
+	Query: "chiroptera mauritius" ; Times: 1
+	Query: "Phylloscopus poliocephalus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 78 (out of 298 download events in this period)
+Total number of records downloaded: 20454 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 16542
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 13
+	Country: Belgium ; Times: 2
+	Country: Canada ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-04 ; Times: 4
+	Date: 2015-03-05 ; Times: 2
+	Date: 2015-03-06 ; Times: 5
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 2
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 4
+	Date: 2015-03-12 ; Times: 4
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 3
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 2
+	Date: 2015-03-24 ; Times: 5
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 5
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Ptilinopus superbus year >= 1980 year <= 2015" ; Times: 1
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "chiroptera uganda" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: ""Sciurus carolinensis" stateprovince:"California"" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "birds paraguay" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "chiroptera madagascar" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Incilius coniferus" ; Times: 1
+	Query: "country:"Indonesia" class:Reptilia mappable:1" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Lithobates areolatus" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Rana clamitans mappable:1" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Monteverde country:"Costa Rica" class:Amphibia mappable:1" ; Times: 1
+	Query: "specificepithet:cruentata genus:Myzomela" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "Norops" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Leopardus pardalis." ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "passerina cyanea" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "cyanocompsa cyanea" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4082
+Total number of records retrieved from searches: 64753
+Number of download events that retrieved data from the resource: 292
+Total number of records downloaded: 74373
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4735
+Total number of records retrieved from searches: 73207
+Number of download events that retrieved data from the resource: 899
+Total number of records downloaded: 426694
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
