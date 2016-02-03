@@ -1,0 +1,828 @@
+Report for Institution Code CLO, Resource cuml_sound_film
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 963
+Number of records retrieved in searches: 10488
+Number of different countries where searches have been originated: 34
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Turkey ; Times: 2
+	Country: Italy ; Times: 7
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Venezuela ; Times: 22
+	Country: Ecuador ; Times: 1
+	Country: Australia ; Times: 9
+	Country: Singapore ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Chile ; Times: 3
+	Country: Thailand ; Times: 6
+	Country: Hong Kong ; Times: 6
+	Country: Poland ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 5
+	Country: United States ; Times: 663
+	Country: Sweden ; Times: 2
+	Country: French Guiana ; Times: 1
+	Country: Switzerland ; Times: 6
+	Country: Russia ; Times: 38
+	Country: Brazil ; Times: 49
+	Country: Jamaica ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 49
+	Country: South Africa ; Times: 4
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 22
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 38
+	Date: 2015-09-10 ; Times: 34
+	Date: 2015-09-11 ; Times: 12
+	Date: 2015-09-12 ; Times: 17
+	Date: 2015-09-13 ; Times: 11
+	Date: 2015-09-14 ; Times: 74
+	Date: 2015-09-15 ; Times: 15
+	Date: 2015-09-16 ; Times: 16
+	Date: 2015-09-17 ; Times: 85
+	Date: 2015-09-18 ; Times: 26
+	Date: 2015-09-19 ; Times: 33
+	Date: 2015-09-08 ; Times: 57
+	Date: 2015-09-30 ; Times: 51
+	Date: 2015-09-28 ; Times: 28
+	Date: 2015-09-29 ; Times: 55
+	Date: 2015-09-07 ; Times: 32
+	Date: 2015-09-06 ; Times: 41
+	Date: 2015-09-05 ; Times: 39
+	Date: 2015-09-04 ; Times: 31
+	Date: 2015-09-03 ; Times: 17
+	Date: 2015-09-02 ; Times: 39
+	Date: 2015-09-01 ; Times: 34
+	Date: 2015-09-25 ; Times: 23
+	Date: 2015-09-24 ; Times: 35
+	Date: 2015-09-27 ; Times: 18
+	Date: 2015-09-26 ; Times: 24
+	Date: 2015-09-21 ; Times: 17
+	Date: 2015-09-20 ; Times: 17
+	Date: 2015-09-23 ; Times: 10
+	Date: 2015-09-22 ; Times: 34
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves country:&#34;Brazil&#34; (Sporophila)" ; Times: 2
+	Query: "Frog brown green stripes" ; Times: 1
+	Query: "Night snake" ; Times: 2
+	Query: "Podocnemis expansa" ; Times: 3
+	Query: "Syma" ; Times: 1
+	Query: "callosciurus finlaysonii" ; Times: 1
+	Query: "Phlegopsis nigromaculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "geranium" ; Times: 2
+	Query: "Phoebastria irrorata" ; Times: 4
+	Query: "emberiza schoeniclus" ; Times: 4
+	Query: "pycnonotus jocosus" ; Times: 2
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "Anaxyrus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "meiglyptes tukki" ; Times: 2
+	Query: "panthera onca" ; Times: 10
+	Query: "27176" ; Times: 1
+	Query: "type:observation country:&#34;kenya&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "schistes geoffroyi" ; Times: 1
+	Query: "Aratinga holochlora" ; Times: 7
+	Query: "gorilla" ; Times: 3
+	Query: "crotalus page" ; Times: 2
+	Query: "diglossa baritula country:&#34;Mexico&#34; year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "distance(location,geopoint(21.9802369569,-105.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 3
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Pharomachrus" ; Times: 3
+	Query: "Phaethornis longirostris" ; Times: 2
+	Query: "Ovibos" ; Times: 1
+	Query: "Ampeliceps coronatus" ; Times: 3
+	Query: "vampire" ; Times: 3
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34; specificepithet:phoeniceus genus:Agelaius year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "La Selva Field Station Mammals" ; Times: 1
+	Query: "county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; class:amphibia mappable:1" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "catreus wallichii" ; Times: 1
+	Query: "knipolegus" ; Times: 1
+	Query: "anaxyrus exsul" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "Leptosomus" ; Times: 1
+	Query: "Grey Wolf" ; Times: 1
+	Query: "Ochotona princeps media:1" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 2
+	Query: "Dipsochelys" ; Times: 1
+	Query: "chimpanzee mappable:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 11
+	Query: "buceros bicornis" ; Times: 1
+	Query: "synallaxis tithys" ; Times: 2
+	Query: "black rail" ; Times: 4
+	Query: "distance(location,geopoint(21.0802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Takutu River Ireng class:Aves" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "acrocephalus schoenobaenus" ; Times: 2
+	Query: "brachypteryx major" ; Times: 1
+	Query: "melampitta" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Dendropsophus leucophyllatus" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga country:&#34;canada&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "flammulated owl" ; Times: 3
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "vultur" ; Times: 12
+	Query: "african elephant" ; Times: 1
+	Query: "venomous snakes" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Penelope obscura" ; Times: 1
+	Query: "A. H. Wood" ; Times: 2
+	Query: "Solenostomus" ; Times: 2
+	Query: "Pycnonotus atriceps" ; Times: 5
+	Query: "distance(location,geopoint(21.7802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Bangsia" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 2
+	Query: "Thamnophilus Melanonotus" ; Times: 1
+	Query: "phelpsia inornata" ; Times: 4
+	Query: "Ficedula parva country:&#34;India&#34;" ; Times: 1
+	Query: "yniphora" ; Times: 1
+	Query: "pavo muticus" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "Alouatta pigra (Mexico) year &gt;= 1990 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Butastur indicus" ; Times: 5
+	Query: "trachyphonus margaritatus" ; Times: 2
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "catalognumber:435409" ; Times: 1
+	Query: "cucullata guyana" ; Times: 2
+	Query: "nasua media:1" ; Times: 4
+	Query: "Callithrix pygmaea" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "white tailed deer distance(location,geopoint(42.78465108861949,-76.190185546875))&lt;142070.13401918826" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "genus:Hypocolius" ; Times: 1
+	Query: "malimbus" ; Times: 2
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Scotinomys teguina" ; Times: 2
+	Query: "siptornopsis" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "how to cite" ; Times: 1
+	Query: "diglossa baritula year &gt;= 2000 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;Maine&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2015 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "archaeology" ; Times: 1
+	Query: "La Selva Field Station" ; Times: 2
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 2
+	Query: "distance(location,geopoint(22.8802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "parapriacanthus ransonneti" ; Times: 2
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "Schoenicola platyurus" ; Times: 2
+	Query: "Japanese White-eye" ; Times: 5
+	Query: "acrocephalus arundinaceus" ; Times: 6
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "&#34;Stenella longirostris&#34; mappable:1" ; Times: 1
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "Otus brucei" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Louisiana&#34; year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "Diamantina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phylloscopus fuligiventer" ; Times: 9
+	Query: "distance(location,geopoint(21.4802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 3
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 4
+	Query: "grallaria AMNH" ; Times: 1
+	Query: "Myrmothera" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "strix nebulosa" ; Times: 2
+	Query: "blue footed" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "ploceus nest" ; Times: 2
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "&#34;Giraffa camelopardalis&#34; mappable:1" ; Times: 1
+	Query: "Grallaria amnh" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 3
+	Query: "type:observation country:&#34;kenya&#34; class:mammalia year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 1
+	Query: "odonata" ; Times: 1
+	Query: "monster" ; Times: 18
+	Query: "pauxi unicornis unicornis" ; Times: 1
+	Query: "urocissa caerulea" ; Times: 6
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "waterbirds" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "snail kite" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "sandfly" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "Hyla versicolor Pennsylvania" ; Times: 2
+	Query: "Melanerpes striatus" ; Times: 2
+	Query: "acrocephalus palustris" ; Times: 1
+	Query: "Aldabrachelys" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 1
+	Query: "coturnicops" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "colibri" ; Times: 1
+	Query: "Papio" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "distance(location,geopoint(21.1802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "Pauxi unicornis" ; Times: 2
+	Query: "specificepithet:ruticilla genus:setophaga stateprovince:&#34;New York&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2015 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; (Crax fasciolata)" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Coendou" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Pyrrhura perlata)" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "phylloscopus pulcher" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "seicercus whistleri" ; Times: 7
+	Query: "pongo pygmaeus" ; Times: 1
+	Query: "Vireo osburni" ; Times: 2
+	Query: "distance(location,geopoint(29.5802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 4
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "tailed frog" ; Times: 2
+	Query: "urocissa whiteheadi" ; Times: 5
+	Query: "90670" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "specificepithet:niger genus:Pachyramphus" ; Times: 1
+	Query: "cricket songs" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 2
+	Query: "phylloscopus subaffinis" ; Times: 1
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "Crax" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "cystignathoides" ; Times: 1
+	Query: "Thamnophilus melanonotus" ; Times: 2
+	Query: "Sciurus variegatoides" ; Times: 2
+	Query: "Angonoka" ; Times: 1
+	Query: "Manis gigantea" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-105.849505705))&lt;10000" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 2
+	Query: "puma yagouaroundi" ; Times: 3
+	Query: "La Selva Costa Rica Station Mammals" ; Times: 1
+	Query: "tyto longimembris" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;CInclodes antarcticus&#34;" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 2
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "phylloscopus armandii" ; Times: 1
+	Query: "Myotis elegans" ; Times: 1
+	Query: "Rhodopis vesper" ; Times: 1
+	Query: "9 banded armadillo" ; Times: 1
+	Query: "megaptera" ; Times: 1
+	Query: "&#34;Elephas maximus&#34; mappable:1" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "specificepithet:meloryphus genus:euscarthmus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "rmnp" ; Times: 1
+	Query: "phylloscopus xanthoschistos" ; Times: 2
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "specificepithet:VIRESCENS genus:BUTORIDES media:1" ; Times: 2
+	Query: "LSUMZ" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "pachyramphus niger" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 7
+	Query: "Mexican birds" ; Times: 1
+	Query: "Cyornis rufigastra" ; Times: 2
+	Query: "ploceus galbula" ; Times: 2
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Penelope albipennis" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 3
+	Query: "87603" ; Times: 1
+	Query: "turdoides longirostris" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "Feisty" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "pulsatrix" ; Times: 2
+	Query: "Water monitor" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "&#34;Acinonyx jubatus&#34; mappable:1" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+	Query: "beluga whale" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "ophiophagus hannah" ; Times: 3
+	Query: "more search options" ; Times: 3
+	Query: "Oppossum" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "coturnicops notatus" ; Times: 3
+	Query: "polyplectron bicalcaratum" ; Times: 2
+	Query: "Canis lupis" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "phylloscopus reguloides" ; Times: 2
+	Query: "Spizella pallida from the United States" ; Times: 1
+	Query: "Sakesphorus Melanonotus" ; Times: 5
+	Query: "HERONS" ; Times: 1
+	Query: "Three-wattled Bellbird" ; Times: 1
+	Query: "southern yellow bat" ; Times: 1
+	Query: "Hypocolius" ; Times: 1
+	Query: "galloperdix spadicea" ; Times: 1
+	Query: "Megascops watsonii" ; Times: 1
+	Query: "phylloscopus collybita" ; Times: 2
+	Query: "Sakesphorus melanonotus" ; Times: 14
+	Query: "phytotoma raimondii" ; Times: 1
+	Query: "temnurus temnurus" ; Times: 8
+	Query: "phylloscopus maculipennis" ; Times: 2
+	Query: "catalognumber:128553" ; Times: 1
+	Query: "red-winged blackbird stateprovince:&#34;Connecticut&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "lagopus leucura" ; Times: 3
+	Query: "mammal AND nairobi type:observation" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.149505705))&lt;15000" ; Times: 1
+	Query: "euscarthmus country:&#34;venezuela&#34;" ; Times: 2
+	Query: "&#34;lng:&#34;" ; Times: 1
+	Query: "corn snake" ; Times: 1
+	Query: "ichthyophaga ichthyaetus" ; Times: 2
+	Query: "saguinus nigricollis" ; Times: 1
+	Query: "phylloscopus neglectus" ; Times: 2
+	Query: "orcinus" ; Times: 1
+	Query: "florisuga fusca" ; Times: 2
+	Query: "Kansas Natural History Museum ornithology" ; Times: 4
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Prinia subflava Tanzania" ; Times: 1
+	Query: "A. H. Wood class:Aves" ; Times: 1
+	Query: "type:observation country:&#34;kenya&#34; class:mammalia year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "carex" ; Times: 2
+	Query: "Balaenoptera mappable:1" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "gypsy moth" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "missouri squirrel" ; Times: 1
+	Query: "lophophorus impejanus" ; Times: 1
+	Query: "ireng river guyana class:Aves" ; Times: 2
+	Query: "Foudia" ; Times: 1
+	Query: "mammal jordan" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "turtles" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "Python florida" ; Times: 1
+	Query: "(Pan troglodytes)" ; Times: 1
+	Query: "Torreornis inexpectata" ; Times: 1
+	Query: "green parakeet" ; Times: 1
+	Query: "saguinus fuscicollis" ; Times: 2
+	Query: "batrachostomus auritus" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 4
+	Query: "miliaria calandra" ; Times: 1
+	Query: "demon" ; Times: 10
+	Query: "Field cricket" ; Times: 2
+	Query: "&#34;Giraffa camelopardalis reticulata&#34; mappable:1" ; Times: 1
+	Query: "graminicola bengalensis" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "distance(location,geopoint(21.1802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "phylloscopus davisoni" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 3
+	Query: "R.30826" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "saimiri oerstedii" ; Times: 1
+	Query: "lemur leaf frog" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "Podocnemis AND (expansa)" ; Times: 1
+	Query: "Chiropotes" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "batrachostomus moniliger" ; Times: 2
+	Query: "xenospingus concolor" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "Pinus contorta" ; Times: 18
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "&#34;canis lupis&#34; mappable:1" ; Times: 3
+	Query: "alouatta pigra" ; Times: 1
+	Query: "southern flying squirrel" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Pyrrhura lepida)" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM)" ; Times: 1
+	Query: "phylloscopus occipitalis" ; Times: 5
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "Orlitia" ; Times: 1
+	Query: "zonotrichia querula year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "human evolution" ; Times: 3
+	Query: "distance(location,geopoint(21.3802369569,-106.149505705))&lt;15000" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "class:Mammalia and migration and marine" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "&#34;panthera onca&#34; mappable:1" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Anaxyrus debilis" ; Times: 2
+	Query: "cebus capucinus" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "phylloscopus schwarzi" ; Times: 3
+	Query: "distance(location,geopoint(21.9802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "Harpactes erythrocephalus Thailand" ; Times: 1
+	Query: "Thripophaga fusciceps" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "common pheasant" ; Times: 6
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Hylopezus" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "neotropical mammals" ; Times: 2
+	Query: "specificepithet:nigrocinctus genus:Micrurus country:&#34;Panama&#34;" ; Times: 2
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ)" ; Times: 1
+	Query: "oxyruncus" ; Times: 2
+	Query: "red-winged blackbird stateprovince:&#34;Connecticut&#34; AND (NOT female) year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:virescens genus:Butorides media:1" ; Times: 1
+	Query: "weaver nest" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:147876 institutioncode:CUML" ; Times: 2
+	Query: "Diamantina class:Aves" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "Tangara phillipsi" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "crypsirina temia" ; Times: 31
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "platysmurus leucopterus" ; Times: 9
+	Query: "Pan troglodytes" ; Times: 3
+	Query: "blue pitta" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "trivittata" ; Times: 1
+	Query: "corcovado" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 3
+	Query: "&#34;Archbold Biological Station&#34;" ; Times: 1
+	Query: "batrachostomus affinis" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 35
+	Query: "Pyrrhura frontalis" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "red-winged blackbird stateprovince:&#34;Connecticut&#34; AND (female) year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Cyornis rubeculoides" ; Times: 11
+	Query: "dendropsophus ebraccatus" ; Times: 1
+	Query: "western red bat" ; Times: 1
+	Query: "turdoides earlei" ; Times: 1
+	Query: "MyrmecOphaga" ; Times: 1
+	Query: "Geochelone yniphora" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; country:&#34;united states&#34; specificepithet:aestivalis genus:aimophila" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Pteroglossus bitorquatus)" ; Times: 1
+	Query: "zoothera wardii" ; Times: 7
+	Query: "urocissa ornata" ; Times: 7
+	Query: "turdoides subrufa" ; Times: 1
+	Query: "Hyla albopunctata" ; Times: 2
+	Query: "Megapodius laperouse senex" ; Times: 1
+	Query: "class:aves distance(location,geopoint(-29.869228848968298,-51.2457275390625))&lt;100000" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 11
+	Query: "class:aves distance(location,geopoint(-29.668962525992505,-50.64697265625))&lt;100000" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Willisornis vidua" ; Times: 1
+	Query: "Luscinia pectoralis" ; Times: 8
+	Query: "crocuta" ; Times: 2
+	Query: "myrmecophaga" ; Times: 1
+	Query: "gryphus" ; Times: 2
+	Query: "GUYANA Sakesphorus canadensis" ; Times: 1
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "genus:formicivora" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 2
+	Query: "grallaricula" ; Times: 1
+	Query: "Penelope jacquacu granti" ; Times: 1
+	Query: "emberiza striolata" ; Times: 2
+	Query: "parvula" ; Times: 1
+	Query: "class:aves locality:sao francisco de paula" ; Times: 1
+	Query: "turdoides nipalensis" ; Times: 4
+	Query: "geckos" ; Times: 2
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 2
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "coendou prehensilis mappable:1" ; Times: 2
+	Query: "specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "genus:stymphalornis" ; Times: 1
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "arctocephalus gazella" ; Times: 2
+	Query: "Eremophila bilopha" ; Times: 1
+	Query: "seicercus burkii" ; Times: 2
+	Query: "distance(location,geopoint(23.1802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "calyptahyla crucialis" ; Times: 1
+	Query: "San Sebastian Trail" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "trimeresurus malabaricus" ; Times: 1
+	Query: "Red-vented Bulbul" ; Times: 2
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 4
+	Query: "Cynomys ludovicianus arizona" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "&#34;Panthera onca&#34; mappable:1" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 5
+	Query: "spotted hyena" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "Tenure idea" ; Times: 1
+	Query: "catalognumber:161963" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Cyornis hainanus" ; Times: 11
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "rhodopis vesper" ; Times: 1
+	Query: "Phonygammus keraudrenii" ; Times: 1
+	Query: "phylloscopus plumbeitarsus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 269 (out of 1045 download events in this period)
+Total number of records downloaded: 129449
+Number of different countries: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Australia ; Times: 19
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 15
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 6
+	Country: United States ; Times: 164
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 12
+	Country: Hong Kong ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-10 ; Times: 28
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 2
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 18
+	Date: 2015-09-16 ; Times: 28
+	Date: 2015-09-17 ; Times: 35
+	Date: 2015-09-18 ; Times: 8
+	Date: 2015-09-29 ; Times: 9
+	Date: 2015-09-08 ; Times: 4
+	Date: 2015-09-30 ; Times: 11
+	Date: 2015-09-28 ; Times: 6
+	Date: 2015-09-19 ; Times: 13
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 11
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-03 ; Times: 6
+	Date: 2015-09-02 ; Times: 14
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 7
+	Date: 2015-09-24 ; Times: 5
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 3
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 7
+	Date: 2015-09-09 ; Times: 8
+	Date: 2015-09-22 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; (Pyrrhura lepida)" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Spizella pallida from the United States" ; Times: 2
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "callosciurus finlaysonii" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "schistes albogularis" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "dendrobates auratus" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "hyla chrysoscelis" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "common pheasant" ; Times: 4
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "wombat mappable:1" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; class:Amphibia year &lt;= 2015" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:woodhousii genus:Anaxyrus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 2
+	Query: "caiman" ; Times: 2
+	Query: "Spea" ; Times: 2
+	Query: "&#34;James Bond&#34;" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "alsophis" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Hylophylax poecilinotus" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "red-winged blackbird stateprovince:&#34;Connecticut&#34; year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "country:&#34;micronesia&#34; class:reptilia" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Thamnophilus Melanonotus" ; Times: 1
+	Query: "Dendrocincla merula" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "saguinus fuscicollis" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "birds chihuahua" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Mammal)" ; Times: 1
+	Query: "enicurus ruficapillus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "synallaxis tithys" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; class:Reptilia year &lt;= 2015" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "saguinus nigricollis" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34; (Pteroglossus bitorquatus)" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "class:aves distance(location,geopoint(-29.668962525992505,-50.64697265625))&lt;100000" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "Luscinia pectoralis" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Mammal) mappable:1" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "phelpsia inornata" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Lithobates clamitans" ; Times: 1
+	Query: "Phascolarctos cinereus mappable:1" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "callosciurus erythraeus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "geranium" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Eremophila bilopha" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "Irian" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "Willisornis vidua" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "leucopternis occidentalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "bufo marinus" ; Times: 1
+	Query: "Paradisaeidae year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "old woman california chordata" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "Manis gigantea" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "saguinus geoffroyi" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Cyornis hainanus" ; Times: 1
+	Query: "Xiphorhynchus ocellatus" ; Times: 1
+	Query: "PNG" ; Times: 2
+	Query: "phrynomantis" ; Times: 1
+
+
+End of report.
