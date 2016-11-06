@@ -1,0 +1,134 @@
+Report for Institution Code CLO, Resource cuml_sound_film
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 377
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 6
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 4
+	Date: 2016-10-30 ; Times: 1
+	Date: 2016-10-15 ; Times: 2
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-17 ; Times: 1
+	Date: 2016-10-16 ; Times: 1
+	Date: 2016-10-11 ; Times: 3
+	Date: 2016-10-10 ; Times: 2
+	Date: 2016-10-13 ; Times: 1
+	Date: 2016-10-08 ; Times: 3
+	Date: 2016-10-09 ; Times: 1
+	Date: 2016-10-28 ; Times: 1
+	Date: 2016-10-07 ; Times: 3
+	Date: 2016-10-20 ; Times: 3
+	Date: 2016-10-21 ; Times: 2
+	Date: 2016-10-22 ; Times: 1
+	Date: 2016-10-23 ; Times: 1
+	Date: 2016-10-24 ; Times: 11
+	Date: 2016-10-25 ; Times: 1
+	Date: 2016-10-26 ; Times: 2
+	Date: 2016-10-27 ; Times: 2
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-29 ; Times: 1
+	Date: 2016-10-04 ; Times: 3
+	Date: 2016-10-05 ; Times: 12
+	Date: 2016-10-02 ; Times: 4
+	Date: 2016-10-03 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Pulsatrix melanota " ; Times: 1
+	Query: "Thryothorus euophrys " ; Times: 1
+	Query: "demon" ; Times: 2
+	Query: " CalliCebus torquatus 1" ; Times: 1
+	Query: "Betula papyrifera mappable:1" ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Aratinga mitrata 1" ; Times: 1
+	Query: "Rhyticeros undulatus 1" ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Ariolimax mappable:1" ; Times: 1
+	Query: "Picumnus lafresnayi " ; Times: 1
+	Query: "Ursus americanus 1" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: " Pinus contorta" ; Times: 5
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "Asthenes harterti " ; Times: 1
+	Query: "Phyllomedusa vaillantii " ; Times: 1
+	Query: "Lophotriccus vitiosus " ; Times: 1
+	Query: "Galbalcyrhynchus purusianus " ; Times: 1
+	Query: "Thectocercus acuticaudatus 1" ; Times: 1
+	Query: "Pinus contorta " ; Times: 36
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "unicorn" ; Times: 4
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Myrmotherula grisea " ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Picumnus fuscus " ; Times: 1
+	Query: "Aulacorhynchus coeruleicinctis " ; Times: 1
+	Query: "Scinax staufferi" ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "cebus apella" ; Times: 2
+	Query: " Alouatta belzebul 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 203 download events in this period)
+Total number of records downloaded: 1060
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 92
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-19 ; Times: 2
+	Date: 2016-10-18 ; Times: 3
+	Date: 2016-10-31 ; Times: 1
+	Date: 2016-10-30 ; Times: 3
+	Date: 2016-10-15 ; Times: 2
+	Date: 2016-10-14 ; Times: 4
+	Date: 2016-10-17 ; Times: 3
+	Date: 2016-10-16 ; Times: 3
+	Date: 2016-10-11 ; Times: 13
+	Date: 2016-10-13 ; Times: 8
+	Date: 2016-10-12 ; Times: 1
+	Date: 2016-10-08 ; Times: 4
+	Date: 2016-10-06 ; Times: 2
+	Date: 2016-10-29 ; Times: 3
+	Date: 2016-10-20 ; Times: 5
+	Date: 2016-10-22 ; Times: 2
+	Date: 2016-10-23 ; Times: 12
+	Date: 2016-10-24 ; Times: 5
+	Date: 2016-10-25 ; Times: 5
+	Date: 2016-10-26 ; Times: 3
+	Date: 2016-10-27 ; Times: 2
+	Date: 2016-10-28 ; Times: 2
+	Date: 2016-10-07 ; Times: 3
+	Date: 2016-10-04 ; Times: 8
+	Date: 2016-10-05 ; Times: 4
+	Date: 2016-10-02 ; Times: 2
+	Date: 2016-10-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 106
+
+
+End of report.
