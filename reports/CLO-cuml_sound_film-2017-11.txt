@@ -1,0 +1,307 @@
+Report for Institution Code CLO, Resource cuml_sound_film
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 315
+Number of records retrieved in searches: 3019
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 61
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 24
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 2
+	Country: Papua New Guinea ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 175
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 56
+	Date: 2017-11-29 ; Times: 66
+	Date: 2017-11-26 ; Times: 40
+	Date: 2017-11-27 ; Times: 93
+	Date: 2017-11-24 ; Times: 4
+	Date: 2017-11-25 ; Times: 14
+	Date: 2017-11-30 ; Times: 42
+
+List of queries that retrieved data from the resource: 
+	Query: "Tawny-crowned Greenlet sex:male" ; Times: 1
+	Query: "specificepithet:flaviventer genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Diglossa cyanea 1984 Ecuador" ; Times: 1
+	Query: "White-breasted Guineafowl" ; Times: 1
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34; year &gt;= 2011" ; Times: 1
+	Query: "rufous-crowned greenlet sex:male" ; Times: 2
+	Query: "specificepithet:baileyi class:Aves country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rufous-browed Peppershrike" ; Times: 2
+	Query: "63090" ; Times: 2
+	Query: "Porphyrospiza caerulescens" ; Times: 3
+	Query: "elf" ; Times: 3
+	Query: "Dacnis venusta" ; Times: 1
+	Query: "hawk owl minnesota" ; Times: 1
+	Query: "Chondestes grammacus minnesota" ; Times: 1
+	Query: "yosemite toad" ; Times: 3
+	Query: "Brown-capped Vireo sex: male" ; Times: 1
+	Query: "specificepithet:porcus genus:anolis mappable:1" ; Times: 1
+	Query: "gallinago hardwickii" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Lithobates vibicarius" ; Times: 1
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Scelorchilus albicollis" ; Times: 4
+	Query: "genus:Spiza class:Aves stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 1
+	Query: "Orcaella" ; Times: 1
+	Query: "coelestis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves" ; Times: 3
+	Query: "genus:Terenura" ; Times: 1
+	Query: "specificepithet:pealii genus:erythrura class:aves" ; Times: 1
+	Query: "egg greenland" ; Times: 1
+	Query: "grallaria rufula ku" ; Times: 1
+	Query: "Thick-billed Vireo sex:male" ; Times: 2
+	Query: "specificepithet:virescens genus:empidonax country:&#34;canada&#34;" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 2
+	Query: "veniliornis diversus" ; Times: 1
+	Query: "Diglossa gloriosissima" ; Times: 1
+	Query: "tersina viridis" ; Times: 1
+	Query: "white-eyed vireo sex:male" ; Times: 1
+	Query: "Eunectes" ; Times: 2
+	Query: "elephants" ; Times: 1
+	Query: "Dacnis flaviventer" ; Times: 1
+	Query: "humans" ; Times: 1
+	Query: "Thick-billed Vireo" ; Times: 1
+	Query: "Sport tv" ; Times: 1
+	Query: "specificepithet:cayana cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Buff-cheeked Greenlet sex:male" ; Times: 1
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "Eastern work snake" ; Times: 1
+	Query: "Psittacara" ; Times: 1
+	Query: "Scrub Greenlet sex:male" ; Times: 1
+	Query: "Green Shrike-vireo sex:male" ; Times: 1
+	Query: "genus:Diglossa (gloriosissima)" ; Times: 1
+	Query: "Yellow-browed shrike-vireo sex:male" ; Times: 1
+	Query: "Diasporus hylaeformis" ; Times: 1
+	Query: "Cygnus buccinator minnesota" ; Times: 5
+	Query: "indigotica" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Aplastodiscus eugenioi mappable:1" ; Times: 1
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34; institutioncode:CLO" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "genus:Megascops class:Aves stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Cotinga" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Dacnis venusta venusta" ; Times: 2
+	Query: "(gloriosissima)" ; Times: 1
+	Query: "Diglossa indigotica" ; Times: 2
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "specificepithet:viridis viridis genus:Tersina hastissue:0" ; Times: 1
+	Query: "grisescens specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "Tersina viridis" ; Times: 7
+	Query: "rufous-crowned greenlet" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "gray vireo sex:male" ; Times: 4
+	Query: "obscura class:Aves continent:South America" ; Times: 1
+	Query: "california red-legged frog" ; Times: 2
+	Query: "grey wolves" ; Times: 8
+	Query: "Bassaricyon gabbii" ; Times: 5
+	Query: "Golden Vireo sex:male" ; Times: 1
+	Query: "red kite" ; Times: 1
+	Query: "Cnemarchus erythropygius" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "cyclopsitta diophthalma" ; Times: 4
+	Query: "vntype:observation order:Diprotodontia" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "specificepithet:venusta venusta genus:Dacnis hastissue:0" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "circus Minnesota" ; Times: 1
+	Query: "Muscisaxicola alpinus" ; Times: 2
+	Query: "Parupeneus insularis" ; Times: 1
+	Query: "Fritziana  fissilis mappable:1" ; Times: 1
+	Query: "Asthenes griseomurina" ; Times: 2
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "Centrolene heloderma" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:porcus genus:anolis country:&#34;cuba&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:indigotica genus:Diglossa class:Aves" ; Times: 1
+	Query: "anolis porcus" ; Times: 1
+	Query: "Yellow-green Vireo sex:male" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Mulloidichthys dentatus" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "yellow-throated vireo sex:male" ; Times: 2
+	Query: "genus:Piprites" ; Times: 1
+	Query: "humpback whaler" ; Times: 1
+	Query: "specificepithet:gloriosissima genus:Diglossa" ; Times: 1
+	Query: "yellow-winged vireo sex:male" ; Times: 1
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "White-eyed Vireo sex:male" ; Times: 6
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "genus:Megascops OR Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dacnis hartlaubi" ; Times: 1
+	Query: "Pteridophora alberti" ; Times: 1
+	Query: "Dacnis egregia aequatorialis" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "196376" ; Times: 1
+	Query: "Camarhynchus heliobates" ; Times: 9
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Urothraupis stolzmanni" ; Times: 1
+	Query: "bengal tiger" ; Times: 2
+	Query: "Diglossa (Perija)" ; Times: 1
+	Query: "Diglossa cyanea 1984" ; Times: 1
+	Query: "Black-capped Vireo sex:male" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Pinus contorta" ; Times: 13
+	Query: "specificepithet:parvula genus:helogale country:&#34;kenya&#34;" ; Times: 1
+	Query: "Norops sagrei mappable:1" ; Times: 1
+	Query: "rufous-browed peppershrike sex:male" ; Times: 1
+	Query: "Parupeneus forsskali" ; Times: 1
+	Query: "orcaella brevirostris" ; Times: 2
+	Query: "Diglossa sittoides" ; Times: 1
+	Query: "Bucephala clangula minnesota" ; Times: 1
+	Query: "Brown-capped Vireo" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "humpback whales" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Warbling Vireo sex:male" ; Times: 2
+	Query: "demon" ; Times: 1
+	Query: "specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 2
+	Query: "specificepithet:tigris genus:Panthera mappable:1" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Dacnis egregia egregia" ; Times: 1
+	Query: "genus:Diglossa (Perija)" ; Times: 1
+	Query: "Lemon-chested Greenlet sex:male" ; Times: 1
+	Query: "Tersina viridis grisescens" ; Times: 3
+	Query: "Golden-fronted Greenlet sex:male" ; Times: 1
+	Query: "capito wallacei" ; Times: 4
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 1
+	Query: "Coereba (Vincent)" ; Times: 2
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "Saltator cinctus" ; Times: 4
+	Query: "142160" ; Times: 1
+	Query: "grallaria capitalis ku" ; Times: 1
+	Query: "hemispingus calophrys" ; Times: 2
+	Query: "elephas" ; Times: 3
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Mulloidichthys flavolineatus" ; Times: 2
+	Query: "Scrub Greenlet" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "specificepithet:hartlaubi genus:Dacnis hastissue:0" ; Times: 2
+	Query: "slaty vireo sex:male" ; Times: 2
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "buccinator minnesota" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "Lesser Greenlet sex:male" ; Times: 1
+	Query: "plumbeous vireo sex:male" ; Times: 2
+	Query: "specificepithet:hyperboreus genus:Larus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "hemispingus melanotis" ; Times: 3
+	Query: "Red-eyed Vireo sex:male" ; Times: 10
+	Query: "Brown-capped Vireo sex:male" ; Times: 2
+	Query: "Hypopachus pictiventris" ; Times: 1
+	Query: "Tersina viridis viridis" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "DENDROCOPOS ATRATUS" ; Times: 2
+	Query: "Conirostrum tamarugense" ; Times: 2
+	Query: "Dusky-capped Greenlet sex:male" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "egretta dimorpha" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1101 download events in this period)
+Total number of records downloaded: 1404
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: United States ; Times: 19
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 6
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 9
+	Date: 2017-11-26 ; Times: 17
+	Date: 2017-11-27 ; Times: 18
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 7
+	Date: 2017-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "humpback whales" ; Times: 1
+	Query: "specificepithet:porcus genus:anolis mappable:1" ; Times: 1
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 2
+	Query: "Asthenes griseomurina" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "genus:Diglossa (Perija)" ; Times: 1
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus mappable:1 continent:america" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "indigotica" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "specificepithet:pictiventris genus:Hypopachus mappable:1 continent:america" ; Times: 1
+	Query: "Muscisaxicola alpinus" ; Times: 1
+	Query: "specificepithet:resinifictrix genus:Trachycephalus mappable:1 continent:america" ; Times: 1
+	Query: "family:salmonidae" ; Times: 1
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "specificepithet:vittatus genus:Phyllobates mappable:1 continent:america" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 2
+	Query: "Urothraupis stolzmanni" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Lithobates vibicarius" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "grey wolves" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "specificepithet:pustulatus genus:Engystomops mappable:1 continent:america" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "Cnemarchus erythropygius" ; Times: 1
+
+
+End of report.
