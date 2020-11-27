@@ -1,0 +1,1084 @@
+Report for Institution Code CLO, Resource cuml_sound_film
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1965
+Number of records retrieved in searches: 26164
+Number of different countries where searches have been originated: 33
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 41
+	Country: Canada ; Times: 23
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 25
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 5
+	Country: Peru ; Times: 18
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 7
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Slovenia ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: Ukraine ; Times: 9
+	Country: Netherlands ; Times: 10
+	Country: Denmark ; Times: 202
+	Country: Turkey ; Times: 3
+	Country: United States ; Times: 1405
+	Country: Paraguay ; Times: 28
+	Country: Sweden ; Times: 6
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 37
+	Country: Nicaragua ; Times: 8
+	Country: India ; Times: 57
+	Country: United Kingdom ; Times: 25
+	Country: Austria ; Times: 3
+	Country: Colombia ; Times: 13
+	Country: Sri Lanka ; Times: 2
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 31
+	Date: 2019-11-18 ; Times: 41
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 121
+	Date: 2019-11-14 ; Times: 146
+	Date: 2019-11-17 ; Times: 16
+	Date: 2019-11-16 ; Times: 126
+	Date: 2019-11-11 ; Times: 48
+	Date: 2019-11-10 ; Times: 28
+	Date: 2019-11-13 ; Times: 206
+	Date: 2019-11-12 ; Times: 75
+	Date: 2019-11-08 ; Times: 121
+	Date: 2019-11-09 ; Times: 81
+	Date: 2019-11-06 ; Times: 129
+	Date: 2019-11-07 ; Times: 274
+	Date: 2019-11-20 ; Times: 74
+	Date: 2019-11-21 ; Times: 23
+	Date: 2019-11-22 ; Times: 30
+	Date: 2019-11-23 ; Times: 9
+	Date: 2019-11-24 ; Times: 13
+	Date: 2019-11-25 ; Times: 27
+	Date: 2019-11-26 ; Times: 45
+	Date: 2019-11-27 ; Times: 32
+	Date: 2019-11-28 ; Times: 15
+	Date: 2019-11-29 ; Times: 16
+	Date: 2019-11-04 ; Times: 60
+	Date: 2019-11-05 ; Times: 54
+	Date: 2019-11-02 ; Times: 7
+	Date: 2019-11-03 ; Times: 89
+	Date: 2019-11-01 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "199506" ; Times: 2
+	Query: "Charadrius melodus 2009" ; Times: 4
+	Query: "country:Ecuador scientificname:Tursiops truncatus " ; Times: 2
+	Query: "Charadrius melodus 2001" ; Times: 4
+	Query: "Lyncornis temminckii" ; Times: 4
+	Query: "Charadrius melodus 2007" ; Times: 4
+	Query: "penelope pileata year &gt; 1985" ; Times: 1
+	Query: "Machlolophus nuchalis" ; Times: 3
+	Query: "Aleutian tern" ; Times: 2
+	Query: "Empidonax traillii extimus 2015" ; Times: 4
+	Query: "Empidonax traillii extimus 2016" ; Times: 4
+	Query: "Aquila chrysaetos year &gt; 1990" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 3
+	Query: "53648" ; Times: 1
+	Query: "python india" ; Times: 1
+	Query: "Rissa tridactyla egg" ; Times: 1
+	Query: "peccary" ; Times: 1
+	Query: "specificepithet:fuscescens class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Brachyramphus marmoratus 1979" ; Times: 5
+	Query: "Augastes lumachella" ; Times: 8
+	Query: "Cairina moschata" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 1
+	Query: "class:aves stateprovince:&#34;shanxi&#34; country:&#34;china&#34; continent:asia" ; Times: 2
+	Query: "harpactes wardi" ; Times: 1
+	Query: "country:india large-billed leaf warbler" ; Times: 1
+	Query: "Centrocercus minimus 1994" ; Times: 9
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "Polioptila californica californica 2004" ; Times: 4
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "Polioptila californica californica 2008" ; Times: 4
+	Query: "specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "class:AVES (KASHMIR) AND (Jammu) AND (NOT Gilgit) AND (NOT Leh) AND (NOT Ladakh) AND (NOT Himachal) AND (NOT Ruphsu) AND (NOT Baltistan) AND (NOT Kargil)" ; Times: 1
+	Query: "specificepithet:dorsalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "eastern armadillo" ; Times: 1
+	Query: "Lynx canadensis 2000" ; Times: 5
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "snow leopard" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 1
+	Query: "Equus burchellii" ; Times: 2
+	Query: "genus:Pionus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "cossypha polioptera" ; Times: 1
+	Query: "Funambulus layardi" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "175910" ; Times: 1
+	Query: "Penelope perspicax" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 6
+	Query: "specificepithet:rufaxilla family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "genus:Coryphaspiza country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:levaillantii genus:francolinus country:&#34;kenya&#34;" ; Times: 2
+	Query: "20532" ; Times: 1
+	Query: "&#34;James Bond&#34;" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:minor genus:batis country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 6
+	Query: "golden headed lion tamarin" ; Times: 1
+	Query: "Amazona pretrei" ; Times: 7
+	Query: "Propithecus edwardsi" ; Times: 4
+	Query: "yellow-vented bulbul" ; Times: 2
+	Query: "Psilorhamphus guttatus" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "166631" ; Times: 1
+	Query: "Tangara fastuosa mappable:1" ; Times: 3
+	Query: "genus:cyanoloxia" ; Times: 1
+	Query: "montifringilla nivalis" ; Times: 2
+	Query: "specificepithet:fuscescens class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "dune sage brush" ; Times: 1
+	Query: "Grizzly Bear 1999" ; Times: 1
+	Query: "Grizzly Bear 1998" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "large-billed leaf warbler" ; Times: 1
+	Query: "Leptonychotes weddellii" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:troglodytes genus:Pan order:Primates lifestage:Adult" ; Times: 2
+	Query: "western yellow bat" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "Propithecus verreauxi" ; Times: 4
+	Query: "Coturnix coromandelica" ; Times: 1
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:philadelphia class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "junco vulcani" ; Times: 2
+	Query: "Jammu" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "specificepithet:townsendi class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:nuchalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Smithornis capensis year &gt;1990" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "specificepithet:hyemalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "(tunicates) hasmedia:1" ; Times: 1
+	Query: "Charadrius melodus 1985" ; Times: 4
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "heliangelus spencei" ; Times: 1
+	Query: "indigo x" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "specificepithet:lincolnii class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Coccyzus americanus 1974" ; Times: 4
+	Query: "95833" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 4
+	Query: "95836" ; Times: 1
+	Query: "specificepithet:lincolnii class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:americana class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "specificepithet:philadelphia class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:philadelphia class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Funambulus pennantii" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "specificepithet:gunningi class:aves" ; Times: 1
+	Query: "specificepithet:phenax genus:Nymphargus" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 3
+	Query: "Thinocorus orbignyianus" ; Times: 1
+	Query: "monarcha castaneiventris" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 5
+	Query: "urocissa ornata" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "Saguinus imperator" ; Times: 4
+	Query: "61702" ; Times: 1
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Turtle Thailand" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "canis lupus stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "Grizzly Bear 2000" ; Times: 1
+	Query: "trait" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Grizzly Bear 2003" ; Times: 1
+	Query: "Hemitriccus rufigularis" ; Times: 2
+	Query: "chimpanzee" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves stateprovince:Oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:personatus genus:Trogon" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "OTORONGO" ; Times: 2
+	Query: "specificepithet:coronata class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "53454" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 8
+	Query: "unicorn" ; Times: 1
+	Query: "Power AND Rosa Island" ; Times: 1
+	Query: "vntype:observation class:Reptilia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "specificepithet:iliaca class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "wing specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Myotis sodalis 2015" ; Times: 1
+	Query: "Myotis sodalis 2016" ; Times: 4
+	Query: "52292" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1992" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "Aphelocoma coerulescens 1996" ; Times: 6
+	Query: "Aphelocoma coerulescens 1994" ; Times: 6
+	Query: "sephanoides sephaniodes" ; Times: 1
+	Query: "specificepithet:anerythra genus:pitta" ; Times: 1
+	Query: "specificepithet:nuchalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:nuchalis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "86599" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "Nonnula sclateri" ; Times: 3
+	Query: "specificepithet:cyanoptera genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "passerina cyanea x amoena" ; Times: 1
+	Query: "120005" ; Times: 1
+	Query: "Grallaria rufula spatiator" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "bottlenose dolphin" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela country:&#34;zimbabwe&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "specificepithet:guttatus class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:pusilla stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Can is lupus" ; Times: 2
+	Query: "specificepithet:guttatus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "West Indian manatee 2015" ; Times: 5
+	Query: "West Indian manatee 2016" ; Times: 5
+	Query: "genus:cissopis country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "blue whale" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "pachyptila turtur year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:varius class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "specificepithet:rufescens class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 1
+	Query: "burmese" ; Times: 1
+	Query: "Vireo bellii pusillus 2013" ; Times: 3
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "cacicus uropygialis" ; Times: 1
+	Query: "Odonata" ; Times: 2
+	Query: "catalognumber:48881 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "specificepithet:uropygialis genus:Cacicus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "drepanornis" ; Times: 2
+	Query: "specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "Hyperolius thomensis" ; Times: 2
+	Query: "specificepithet:carolinensis class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Red Panda" ; Times: 1
+	Query: "specificepithet:virens class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "wood stork" ; Times: 1
+	Query: "Centrocercus minimus 2009" ; Times: 9
+	Query: "blue macaw" ; Times: 1
+	Query: "specificepithet:cayennensis family:COLUMBIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "Calidris canutus rufa 2009" ; Times: 5
+	Query: "west bloomfield" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 3
+	Query: "specificepithet:cayana family:thraupidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:lugubris" ; Times: 1
+	Query: "Gorsachius melanolophus" ; Times: 1
+	Query: "Zalophus wollebaeki" ; Times: 3
+	Query: "Nasua narica" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Helmeted Guineafowl" ; Times: 1
+	Query: "whitman breeding" ; Times: 1
+	Query: "Loxia curvirostra KU year &gt; 1990" ; Times: 2
+	Query: "incilius coniferus" ; Times: 1
+	Query: "Grizzly Bear 1982" ; Times: 1
+	Query: "Charadrius melodus 1997" ; Times: 4
+	Query: "Myotis sodalis 1994" ; Times: 4
+	Query: "Charadrius melodus 1995" ; Times: 4
+	Query: "Charadrius melodus 1994" ; Times: 4
+	Query: "specificepithet:coronata class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Charadrius melodus 1990" ; Times: 4
+	Query: "specificepithet:coronatus genus:Tachyphonus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "Mike Scott" ; Times: 1
+	Query: "hemitriccus rufigularis" ; Times: 2
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "foxes" ; Times: 1
+	Query: "Rhino" ; Times: 1
+	Query: "Brachyramphus marmoratus 2002" ; Times: 5
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "Vireo bellii pusillus 2002" ; Times: 3
+	Query: "helarctos malayanus" ; Times: 2
+	Query: "Hemitriccus granadensis" ; Times: 1
+	Query: "Rheidae" ; Times: 2
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "117407" ; Times: 1
+	Query: "Brachyteles hypoxanthus" ; Times: 19
+	Query: "gila monster" ; Times: 1
+	Query: "Banteng" ; Times: 1
+	Query: "Coccyzus americanus 1998" ; Times: 4
+	Query: "Coccyzus americanus 1999" ; Times: 4
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "Coccyzus americanus 1997" ; Times: 4
+	Query: "Coccyzus americanus 1994" ; Times: 4
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "Coccyzus americanus 1992" ; Times: 4
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Coccyzus americanus 1990" ; Times: 4
+	Query: "genus:Pionopsitta country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Eremophila alpestris strigata 2009" ; Times: 4
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "genus:macrosphenus" ; Times: 1
+	Query: "Aves Tamil Ficedula" ; Times: 1
+	Query: "specificepithet:americana class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "monster" ; Times: 1
+	Query: "specificepithet:atricollis genus:saltator country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Mycteria americana 1990" ; Times: 4
+	Query: "Mycteria americana 1996" ; Times: 4
+	Query: "Mycteria americana 1994" ; Times: 4
+	Query: "procavia" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "specificepithet:nuchalis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "sandfly" ; Times: 5
+	Query: "Vini" ; Times: 3
+	Query: "Ophiophagus hannah" ; Times: 5
+	Query: "Centrocercus minimus 1972" ; Times: 9
+	Query: "country:Ecuador scientificname:Amblyrhynchus cristatus " ; Times: 1
+	Query: "Rana draytonii 2016" ; Times: 6
+	Query: "Ranitomeya ventrimaculata" ; Times: 3
+	Query: "specificepithet:dorsalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:pusilla class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 10
+	Query: "aerodramus fuciphagus" ; Times: 1
+	Query: "Power AND Miguel Island" ; Times: 1
+	Query: "Cynomys parvidens 2002" ; Times: 6
+	Query: "grallaria spatiator" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 3
+	Query: "specificepithet:newtoni genus:Falco" ; Times: 1
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "Sharp-tailed grouse" ; Times: 5
+	Query: "Cyanoramphus cookii" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "scientificname:Centrolene buckleyi " ; Times: 1
+	Query: "setophaga petechia eoa" ; Times: 1
+	Query: "specificepithet:pulpa genus:mirafra" ; Times: 6
+	Query: "Grizzly Bear 1985" ; Times: 1
+	Query: "Grizzly Bear 1988" ; Times: 1
+	Query: "genus:platanista" ; Times: 1
+	Query: "specificepithet:zoniventris genus:Falco" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "class:aves pondicherry" ; Times: 1
+	Query: "ranitomeya" ; Times: 1
+	Query: "Aphelocoma coerulescens 1972" ; Times: 6
+	Query: "specificepithet:iliaca class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "skeletons birds" ; Times: 1
+	Query: "Power AND Barbara Island" ; Times: 1
+	Query: "Brachyramphus marmoratus 2013" ; Times: 5
+	Query: "panterpe insignis" ; Times: 3
+	Query: "pitta SOlomon Islands" ; Times: 1
+	Query: "Oreomystis bairdi" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Eolophus roseicapilla" ; Times: 1
+	Query: "order:anura country:&#34;Equatorial Guinea&#34;" ; Times: 2
+	Query: "Aves Jammu" ; Times: 11
+	Query: "CLO" ; Times: 1
+	Query: "Sphaerotheca" ; Times: 1
+	Query: "specificepithet:hyemalis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:buccanodon" ; Times: 1
+	Query: "elephas maximus" ; Times: 2
+	Query: "West Indian manatee 1983" ; Times: 5
+	Query: "West Indian manatee 1982" ; Times: 5
+	Query: "West Indian manatee 1981" ; Times: 5
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "161009" ; Times: 1
+	Query: "Anaxyrus californicus 1993" ; Times: 9
+	Query: "specificepithet:guttatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "specificepithet:ustulatus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "specificepithet:philadelphia class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "xenopsaris albinucha" ; Times: 1
+	Query: "country:Ecuador scientificname:Zalophus wollebaeki " ; Times: 3
+	Query: "Cercopithecus mitis" ; Times: 15
+	Query: "AGALYCHNIS SALTATOR" ; Times: 3
+	Query: "oreotrochilus leucopleurus" ; Times: 1
+	Query: "umbrella cockatoo" ; Times: 1
+	Query: "smilisca puma" ; Times: 2
+	Query: "Stercorarius parasiticus year &gt; 1990" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 2
+	Query: "specificepithet:iliaca class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:occidentalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Grizzly Bear 1975" ; Times: 1
+	Query: "Eubalaena glacialis baleen" ; Times: 1
+	Query: "burrowing parakeet" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "scytalopus fuscus" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "Coccyzus americanus 2001" ; Times: 4
+	Query: "genus:morelia specificepithet:viridis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "Coccyzus americanus 2004" ; Times: 4
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "Cynomys mexicanus" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "D. McLeod" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "specificepithet:americana class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:CORONATA genus:pAROARIA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "country:india Phylloscopus magnirostris" ; Times: 3
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "specificepithet:pusilla class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 14
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "416995" ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "family:Cardinalidae country:&#34;United States&#34; (hybrid)" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Jammu and Kashmir&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Oxylabes madagascariensis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 7
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "specificepithet:fuscescens class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "turdoides squamiceps" ; Times: 2
+	Query: "Vireo gilvus brewsteri" ; Times: 1
+	Query: "specificepithet:calolaemus genus:Lampornis sex:male" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 6
+	Query: "specificepithet:celata class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "specificepithet:fuscescens class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "specificepithet:iliaca class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Dasyprocta azarae" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "West Indian manatee 1980" ; Times: 5
+	Query: "narwhal" ; Times: 1
+	Query: "Centrocercus minimus 2015" ; Times: 9
+	Query: "Centrocercus minimus 2016" ; Times: 9
+	Query: "Microsciurus alfari" ; Times: 1
+	Query: "Amblyornis macgregoriae" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 2
+	Query: "Giant Panda" ; Times: 1
+	Query: "specificepithet:hudsonicus class:aves stateprovince:manitoba year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "monarcha castaneiventris country:&#34;Solomon Islands&#34;" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Cyornis banyumas" ; Times: 3
+	Query: "specificepithet:Kirtlandii genus:setophaga country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "459943" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "KU 145084" ; Times: 2
+	Query: "West Indian manatee 2002" ; Times: 5
+	Query: "Microsciurus mimulus" ; Times: 2
+	Query: "class:AVES (KASHMIR) AND (Jammu) AND (NOT Gilgit) AND (NOT Ladakh) AND (NOT Himachal) AND (NOT Ruphsu) AND (NOT Baltistan) AND (NOT Kargil)" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "specificepithet:multicolor country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 1
+	Query: "specificepithet:bromeliacia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Myioborus torquatus" ; Times: 1
+	Query: "northern mallard" ; Times: 1
+	Query: "Elephas maximus" ; Times: 11
+	Query: "Aves Gilgit" ; Times: 1
+	Query: "Patagioenas fasciata year &gt; 1990" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:satrapa class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:violacea family:COLUMBIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "country:Ecuador scientificname:Pithecia aequatorialis " ; Times: 1
+	Query: "colaptes rupicola" ; Times: 2
+	Query: "whooping crane" ; Times: 4
+	Query: "specificepithet:satrapa class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "cholera" ; Times: 1
+	Query: "yellow rail" ; Times: 4
+	Query: "craugastor augusti mexico" ; Times: 1
+	Query: "specificepithet:herbicola country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "new mexico junco phaeonotus" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "61-278" ; Times: 1
+	Query: "specificepithet:mechowi genus:Cercococcyx class:aves year &gt;= 1990" ; Times: 1
+	Query: "genus:Trichothraupis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 9
+	Query: "Lycalopex culpaeus" ; Times: 1
+	Query: "Calidris canutus rufa 2015" ; Times: 5
+	Query: "Calidris canutus rufa 2016" ; Times: 4
+	Query: "genus:Eucometis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:calendula class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "vini" ; Times: 2
+	Query: "Grallaria blakei" ; Times: 2
+	Query: "genus:cyanolanius" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 2
+	Query: "hybrid family:Cardinalidae country:&#34;United States&#34;" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "Sciurus variegatoides" ; Times: 1
+	Query: "himalayan monal" ; Times: 9
+	Query: "specificepithet:velox family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Jammu&#34;" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "specificepithet:philadelphia class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "genus:Isthmohyla specificepithet:calypsa" ; Times: 1
+	Query: "new york falcipennis canadensis" ; Times: 1
+	Query: "Sciurus spadiceus" ; Times: 1
+	Query: "nonnula sclateri" ; Times: 7
+	Query: "55422" ; Times: 1
+	Query: "Crypturellus kerriae" ; Times: 2
+	Query: "genus:Pyrrhocoma country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Charadrius melodus 1982" ; Times: 4
+	Query: "Grizzly Bear 1996" ; Times: 1
+	Query: "204408" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Grizzly Bear 1995" ; Times: 1
+	Query: "specificepithet:ardosiaceus genus:Falco" ; Times: 1
+	Query: "Grizzly Bear 1978" ; Times: 1
+	Query: "Amur Paradise-flycatcher" ; Times: 1
+	Query: "specificepithet:americana class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Chasiempis sclateri" ; Times: 5
+	Query: "Aphelocoma coerulescens 2001" ; Times: 6
+	Query: "hoatzin" ; Times: 2
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 2019" ; Times: 2
+	Query: "Protected Area Map data" ; Times: 1
+	Query: "genus:HEMITHRAUPIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 2009" ; Times: 6
+	Query: "Grizzly Bear 1990" ; Times: 1
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "&#34;Canis lupis&#34;" ; Times: 4
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "callicebus" ; Times: 1
+	Query: "Coccyzus americanus 1989" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "bombus" ; Times: 1
+	Query: "specificepithet:aestiva genus:amazona family:Psittacidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:monax genus:marmota country:&#34;Canada&#34; year &gt;= 1942 year &lt;= 1962" ; Times: 1
+	Query: "Pitta sordida year &gt; 1990" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "genus:Agalychnis specificepithet:lemur" ; Times: 9
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "Funambulus palmarum" ; Times: 3
+	Query: "18906" ; Times: 1
+	Query: "specificepithet:iliaca class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Power AND Cruz Island" ; Times: 1
+	Query: "Cynomys parvidens 2016" ; Times: 6
+	Query: "Cynomys parvidens 2015" ; Times: 6
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Brachyramphus marmoratus 1991" ; Times: 5
+	Query: "leopard frog stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "epimachus" ; Times: 3
+	Query: "specificepithet:vicinior genus:Vireo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Mycteria americana 1987" ; Times: 4
+	Query: "Phylloscopus magnirostris" ; Times: 2
+	Query: "180927" ; Times: 1
+	Query: "106469" ; Times: 1
+	Query: "Anaxyrus californicus 2015" ; Times: 9
+	Query: "Anaxyrus californicus 2016" ; Times: 9
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 10
+	Query: "Pyrroglaux podargina" ; Times: 9
+	Query: "86545" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "43136" ; Times: 1
+	Query: "bird body size" ; Times: 1
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 4
+	Query: "66334" ; Times: 1
+	Query: "Corvus cornix cornix" ; Times: 1
+	Query: "Physalaemus riograndensis mappable:1" ; Times: 1
+	Query: "feather duster worm" ; Times: 1
+	Query: "Fulica alai" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "cercomacra melanaria" ; Times: 3
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "specificepithet:tolmiei class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Dactylomys dactylinus" ; Times: 3
+	Query: "Japanese Paradise-flycatcher" ; Times: 5
+	Query: "eleutherodactylus pipilans" ; Times: 2
+	Query: "specificepithet:decumanus genus:psarocolius country:&#34;Venezuela&#34;" ; Times: 6
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Pterodroma phaeopygia" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "specificepithet:PRETIOSA family:columbidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:calendula class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 2
+	Query: "16053" ; Times: 1
+	Query: "Harpactes mackloti" ; Times: 4
+	Query: "eleutherodactylus pipilans Guerrero" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "Polioptila californica californica 1990" ; Times: 4
+	Query: "specificepithet:nuchalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:cayana family:Thraupidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "green toad" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "specificepithet:ruficapilla class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "red tailed hawk primary feathers" ; Times: 1
+	Query: "pycnonotus xanthopygos" ; Times: 1
+	Query: "specificepithet:satrapa class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Grallaria rufula saltuensis" ; Times: 2
+	Query: "Microsciurus flaviventer" ; Times: 2
+	Query: "demon" ; Times: 1
+	Query: "specificepithet:occidentalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "tropical pewee cozumel" ; Times: 1
+	Query: "Sciurus ignitus" ; Times: 2
+	Query: "specificepithet:antarcticus genus:Cinclodes" ; Times: 1
+	Query: "scaly-breasted munia" ; Times: 2
+	Query: "emberizoides herbicola panama" ; Times: 2
+	Query: "specificepithet:hyemalis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "specificepithet:fuscescens class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Platycichla leucops" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "Nothoprocta ornata year &gt; 1990" ; Times: 2
+	Query: "Eolophus roseicapilla year&gt;1990" ; Times: 1
+	Query: "specificepithet:satrapa country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:calendula class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "CLO ML 164153" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "specificepithet:hyemalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "461620" ; Times: 1
+	Query: "japanese paradise-flycatcher" ; Times: 1
+	Query: "north american river otter" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:cassinii class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "platypus egg" ; Times: 9
+	Query: "specificepithet:ruficapilla class:aves stateprovince:Montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Buteo platypterus AND Island" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "19720" ; Times: 2
+	Query: "temperature and mass" ; Times: 1
+	Query: "specificepithet:montana family:COLUMBIDAE country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Empidonax traillii extimus 2001" ; Times: 4
+	Query: "86668" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "batrachostomus moniliger" ; Times: 1
+	Query: "James Bond Aves" ; Times: 1
+	Query: "115820" ; Times: 1
+	Query: "Sitta pusilla insularis" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "genus:Dacnis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Eleoscytalopus indigoticus" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "specificepithet:lincolnii class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Eulacestoma nigropectus year &gt; 1990" ; Times: 1
+	Query: "specificepithet:americana class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Vireo gilvus alberta" ; Times: 1
+	Query: "54056" ; Times: 1
+	Query: "aves petechia country:Venezuela" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "pterodroma phaeopygia galapagos" ; Times: 2
+	Query: "class:aves locality:samburu" ; Times: 2
+	Query: "Strix occidentalis caurina 2005" ; Times: 3
+	Query: "fiery-throated hummingbird" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Polioptila californica californica 2016" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "haematopus unicolor" ; Times: 3
+	Query: "robert county:&#34;coffee&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "heliangelus regalis" ; Times: 9
+	Query: "pondicherry" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "67280" ; Times: 1
+	Query: "genus:odontophorus" ; Times: 2
+	Query: "elf" ; Times: 2
+	Query: "class:aves stateprovince:&#34;guangxi&#34; continent:asia" ; Times: 1
+	Query: "Strix occidentalis caurina 1992" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Sciurus igniventris" ; Times: 2
+	Query: "58676" ; Times: 1
+	Query: "Dactylomys boliviensis" ; Times: 2
+	Query: "Antrostomus carolinensis" ; Times: 1
+	Query: "johannae" ; Times: 3
+	Query: "funambulus pennantii" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "cinnyris reichenowi" ; Times: 1
+	Query: "specificepithet:iliaca class:aves stateprovince:nevada year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "21851" ; Times: 1
+	Query: "Mycteria americana 1983" ; Times: 4
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "genus:francolinus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "genus:oreostruthus" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &gt;= 1980" ; Times: 1
+	Query: "Leopardus pardalis 1995" ; Times: 4
+	Query: "Mycteria americana 1986" ; Times: 4
+	Query: "Leopardus pardalis 1996" ; Times: 4
+	Query: "passerina cyanea hybrid" ; Times: 1
+	Query: "109588" ; Times: 1
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "genus:Poospiza country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:pustulosus genus:Engystomops country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "specificepithet:preciosa genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "heliangelus mavors" ; Times: 5
+	Query: "Cepphus grylle US" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Mycteria americana 2001" ; Times: 4
+	Query: "specificepithet:coronata class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "58673" ; Times: 1
+	Query: "country:Ecuador scientificname:Globicephala macrorhynchus " ; Times: 2
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "genus:Cercococcyx class:aves year &gt;= 1990" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "specificepithet:philadelphia class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "Pterois miles" ; Times: 1
+	Query: "specificepithet:occidentalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 5
+	Query: "Aves Tamil Columba" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis hasmedia:1" ; Times: 1
+	Query: "catalognumber:79277 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "sheppardia montana" ; Times: 2
+	Query: "Hylarana albolabris mappable:1" ; Times: 1
+	Query: "collared peccary" ; Times: 1
+	Query: "genus:nemosia country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Synallaxis infuscata" ; Times: 1
+	Query: "Dactylomys peruanus" ; Times: 2
+	Query: "56937" ; Times: 2
+	Query: "45337" ; Times: 1
+	Query: "Charadrius melodus 2014" ; Times: 4
+	Query: "Rana draytonii 1989" ; Times: 6
+	Query: "Setornis criniger" ; Times: 2
+	Query: "54464" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "Sciurus granatensis" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "Sclerurus mexicanus KU year &gt; 1990" ; Times: 1
+	Query: "white headed hawk" ; Times: 1
+	Query: "specificepithet:canadensis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:pusilla class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 13
+	Query: "19197" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "Sistrurus catenatus 2015" ; Times: 2
+	Query: "specificepithet:anerythra genus:pitta year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:atricapillus class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Plocepasser" ; Times: 1
+	Query: "family:Passeridae (hybrid)" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "great auk" ; Times: 1
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "genus:Incilius specificepithet:periglenes" ; Times: 2
+	Query: "207436" ; Times: 1
+	Query: "Grizzly Bear 1997" ; Times: 1
+	Query: "snakes india" ; Times: 1
+	Query: "Grizzly Bear 2016" ; Times: 1
+	Query: "Grizzly Bear 2015" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "bat ray" ; Times: 2
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "civit" ; Times: 1
+	Query: "specificepithet:iliaca year &gt;= 2002 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 12
+	Query: "Aphelocoma coerulescens 2015" ; Times: 6
+	Query: "Aphelocoma coerulescens 2014" ; Times: 6
+	Query: "genus:pteroptochos" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "aerodramus francicus" ; Times: 1
+	Query: "Rana draytonii 2015" ; Times: 6
+	Query: "Dune sage brush" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "class:Aves continent:Europe year &gt;= 2000 institutioncode:CLO" ; Times: 1
+	Query: "indigo bunting x" ; Times: 1
+	Query: "dasyprocta variegata" ; Times: 3
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "flammulated owl" ; Times: 2
+	Query: "61132" ; Times: 1
+	Query: "Columbina picui" ; Times: 2
+	Query: "hypsiboas rufitelus" ; Times: 2
+	Query: "specificepithet:occidentalis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "stuart willis" ; Times: 2
+	Query: "Aphelocoma coerulescens 1989" ; Times: 6
+	Query: "class:Aves continent:Europe institutioncode:CLO" ; Times: 1
+	Query: "horus swift" ; Times: 1
+	Query: "Aphelocoma coerulescens 1980" ; Times: 6
+	Query: "specificepithet:satrapa class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "(139478)" ; Times: 1
+	Query: "Piping plover" ; Times: 9
+	Query: "Myotis sodalis 2009" ; Times: 4
+	Query: "Aphelocoma coerulescens 2010" ; Times: 6
+	Query: "specificepithet:dorsalis class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Oreoscoptes year &gt; 1990" ; Times: 1
+	Query: "hippolais icterina" ; Times: 3
+	Query: "80642" ; Times: 1
+	Query: "indigo bunting hybrid" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:dorsalis class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Passerina cyanea x amoena" ; Times: 2
+	Query: "61707" ; Times: 2
+	Query: "specificepithet:calendula class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "specificepithet:furcata genus:thalurania country:&#34;brazil&#34;" ; Times: 1
+	Query: "Ptilopachus petrosus" ; Times: 7
+	Query: "10918" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:utah year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:megapodius genus:pteroptochos" ; Times: 6
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Bahama Nuthatch" ; Times: 2
+	Query: "Brachyramphus marmoratus 1990" ; Times: 5
+	Query: "Brachyramphus marmoratus 1987" ; Times: 5
+	Query: "Brachyramphus marmoratus 1992" ; Times: 5
+	Query: "Brachyramphus marmoratus 1994" ; Times: 5
+	Query: "specificepithet:canadensis class:aves stateprovince:british columbia year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Hippolais icterina" ; Times: 1
+	Query: "Thamnistes" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:montana year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Polioptila californica californica 1981" ; Times: 4
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Polioptila californica californica 1983" ; Times: 4
+	Query: "Machaeropterus deliciosus" ; Times: 5
+	Query: "Horus Swift" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "genus:Bromeliohyla country:&#34;Guatemala&#34;" ; Times: 2
+	Query: "86613" ; Times: 1
+	Query: "specificepithet:celata class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "Prosopeia personata" ; Times: 1
+	Query: "Lophocebus albigena" ; Times: 1
+	Query: "Antrostomus carolinensis year &gt; 1990" ; Times: 1
+	Query: "specificepithet:cassinii class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Aves Jammu CLO" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "genus:Rallus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "Grizzly Bear 2005" ; Times: 1
+	Query: "atlantic salmon" ; Times: 1
+	Query: "genus:Isthmohyla specificepithet:debilis" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:plumbeus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:guttatus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "genus:buccanodon year &gt;= 1990" ; Times: 1
+	Query: "pavo cristatus" ; Times: 2
+	Query: "genus:amandava class:aves year &gt;= 1980" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:phlebodes" ; Times: 1
+	Query: "specificepithet:americana class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "white-breasted nuthatches" ; Times: 1
+	Query: "genus:Sylvia class:Aves country:&#34;Turkey&#34;" ; Times: 1
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela country:&#34;Zimbabwe&#34;" ; Times: 1
+	Query: "Mycteria americana 2008" ; Times: 4
+	Query: "specificepithet:ypiranganus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Mycteria americana 2007" ; Times: 4
+	Query: "specificepithet:ustulatus class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 5
+	Query: "specificepithet:gloriosa genus:Diglossa" ; Times: 1
+	Query: "specificepithet:PLUMBEA genus:SPOROPHILA country:&#34;Paraguay&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 1367 download events in this period)
+Total number of records downloaded: 3873
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 12
+	Country: United States ; Times: 63
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-18 ; Times: 4
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-17 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-10 ; Times: 11
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 5
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 5
+	Date: 2019-11-26 ; Times: 7
+	Date: 2019-11-27 ; Times: 8
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-04 ; Times: 6
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-02 ; Times: 4
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Cane toad" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Red Panda" ; Times: 2
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Aves Gilgit" ; Times: 1
+	Query: "TAYASSU PECARI" ; Times: 2
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "genus:ortygospiza class:aves year &gt;= 1980" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "Odonata" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Caqueta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+	Query: "vini" ; Times: 1
+	Query: "specificepithet:pusilla genus:Sitta year &gt;= 1980" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "specificepithet:buckleyi genus:Centrolene" ; Times: 1
+	Query: "Heliangelus regalis" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "Cynomys mexicanus" ; Times: 1
+	Query: "specificepithet:woodhousii genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "genus:macrosphenus" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "sandfly" ; Times: 2
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "tapirus pinchaque" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Cyanoramphus cookii" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "specificepithet:phenax genus:Nymphargus" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "flammulated owl" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:testudinidae country:&#34;ecuador&#34;" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "Aves Ladakh" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 1
+	Query: "cercomacra melanaria" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:thayeri genus:Larus country:&#34;Canada&#34;" ; Times: 1
+	Query: "xenopsaris albinucha" ; Times: 1
+	Query: "oreotrochilus leucopleurus" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "wing specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "scytalopus fuscus" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "genus:morelia specificepithet:viridis institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "Hemitriccus granadensis" ; Times: 1
+	Query: "sephanoides sephaniodes" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1980" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "country:india Phylloscopus magnirostris" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Ammospiza leconteii" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Aves Jammu CLO" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "specificepithet:calolaemus genus:Lampornis sex:male" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "batrachostomus moniliger" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "class:AVES (KASHMIR) AND (NOT Jammu) AND (NOT Gilgit) AND (NOT Leh) AND (NOT Ladakh) AND (NOT Himachal) AND (NOT Ruphsu) AND (NOT Baltistan) AND (NOT Kargil)" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 2
+	Query: "swamp sparrow" ; Times: 1
+
+
+End of report.
