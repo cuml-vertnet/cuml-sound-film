@@ -1,0 +1,608 @@
+Report for Institution Code CLO, Resource cuml_sound_film
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 720
+Number of records retrieved in searches: 8035
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 48
+	Country: Italy ; Times: 2
+	Country: Ireland ; Times: 8
+	Country: Unknown ; Times: 50
+	Country: Peru ; Times: 5
+	Country: Argentina ; Times: 20
+	Country: Bolivia ; Times: 40
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 64
+	Country: Sweden ; Times: 23
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 272
+	Country: Portugal ; Times: 3
+	Country: Uruguay ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: India ; Times: 13
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 137
+	Country: Austria ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Paraguay ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 5
+	Date: 2020-06-15 ; Times: 13
+	Date: 2020-06-14 ; Times: 11
+	Date: 2020-06-17 ; Times: 34
+	Date: 2020-06-16 ; Times: 12
+	Date: 2020-06-11 ; Times: 51
+	Date: 2020-06-10 ; Times: 181
+	Date: 2020-06-13 ; Times: 10
+	Date: 2020-06-12 ; Times: 10
+	Date: 2020-06-08 ; Times: 41
+	Date: 2020-06-09 ; Times: 38
+	Date: 2020-06-28 ; Times: 11
+	Date: 2020-06-07 ; Times: 9
+	Date: 2020-06-20 ; Times: 3
+	Date: 2020-06-22 ; Times: 1
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-26 ; Times: 6
+	Date: 2020-06-27 ; Times: 3
+	Date: 2020-06-06 ; Times: 38
+	Date: 2020-06-29 ; Times: 4
+	Date: 2020-06-04 ; Times: 97
+	Date: 2020-06-05 ; Times: 50
+	Date: 2020-06-02 ; Times: 46
+	Date: 2020-06-03 ; Times: 20
+	Date: 2020-06-01 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "100399 aves" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "tinamus major" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "Microhierax melanoleucos" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:CLO" ; Times: 1
+	Query: "saimiri madre de dios" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH)" ; Times: 1
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "Fischer Tanzania" ; Times: 4
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;100000" ; Times: 1
+	Query: "drepanornis albertisi" ; Times: 6
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "sea mink" ; Times: 2
+	Query: "Hemithraupis guira" ; Times: 2
+	Query: "Meadowlark nest" ; Times: 2
+	Query: "Western Pond Turtle" ; Times: 1
+	Query: "(hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;46527" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 14
+	Query: "&#34;James Bond&#34;" ; Times: 2
+	Query: "trimeresurus" ; Times: 1
+	Query: "specificepithet:hypochroma genus:Sporophila" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Plocepasser" ; Times: 2
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+	Query: "pit viper" ; Times: 1
+	Query: "(hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi OR craveri) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "genus:Herpetotheres country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "specificepithet:hypoleucus distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "Tenasserim" ; Times: 1
+	Query: "specificepithet:cinctus order:galliformes" ; Times: 2
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "genus:trimeresurus" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Alcidae distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "specificepithet:hypoleucus country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;37988" ; Times: 1
+	Query: "bee hummingbird" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "honey bee" ; Times: 1
+	Query: "specificepithet:gingica order:galliformes" ; Times: 1
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "family:Alcidae (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi OR craveri) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "country:&#34;Mexico&#34; (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca) distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "Agalychnis Lemur" ; Times: 1
+	Query: "specificepithet:semitorquatus genus:Micrastur country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Bassaricyon alleni " ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "Pongo abelii" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "murrelet distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;25139" ; Times: 1
+	Query: "specificepithet:meleagris order:galliformes" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "recordedby: william wood" ; Times: 1
+	Query: "Chlorothraupis olivacea" ; Times: 2
+	Query: "chironomus" ; Times: 1
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Micrastur country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "apidae" ; Times: 1
+	Query: "Dactylomys cocha" ; Times: 1
+	Query: "Aythya novaeseelandiae" ; Times: 2
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis) institutioncode: CLO" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "order:Charadriiformes distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "specificepithet:pileata genus:Piprites" ; Times: 1
+	Query: "country:&#34;india&#34; year &gt;= 2015 year &lt;= 2020" ; Times: 4
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "African Black Duck" ; Times: 1
+	Query: "locality:agave" ; Times: 1
+	Query: "cinnyris mediocris" ; Times: 2
+	Query: "vanellus lugubris" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "order:Charadriiformes distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "Muscovy Duck" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "genus:spizaetus country:&#34;pARAGUAY&#34;" ; Times: 2
+	Query: "Cardellina canadensis Texas" ; Times: 1
+	Query: "Exerodonta" ; Times: 1
+	Query: "(hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;100000" ; Times: 1
+	Query: "Sturnella defilippii" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "vanellus MELANOCEPHALUS" ; Times: 3
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet)" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "Hirundapus cochinchinensis" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 5
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;46527" ; Times: 1
+	Query: "elf owl" ; Times: 5
+	Query: "hypsignathus hasmedia:1" ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "Drepanornis albertisi" ; Times: 3
+	Query: "100499 aves" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "Dactylomys" ; Times: 22
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "specificepithet:cumanensis order:galliformes" ; Times: 1
+	Query: "grey squirrel" ; Times: 2
+	Query: "100399" ; Times: 2
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "catalognumber:138134 (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) institutioncode:CLO" ; Times: 1
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "red-headed trogon" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "Nymphargus grandisonae" ; Times: 2
+	Query: "country:Ecuador scientificname:Tursiops truncatus " ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; institutioncode:CLO" ; Times: 1
+	Query: "Spotted owl" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Apus nipalensis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "spotted owl" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "specificepithet:ochrogaster order:galliformes" ; Times: 12
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 12
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "mountain lion" ; Times: 1
+	Query: "Chemehuevi county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Epimachus fastuosus" ; Times: 4
+	Query: "Bobolink nest" ; Times: 2
+	Query: "Sporophila hypochroma" ; Times: 1
+	Query: "Duellmanohyla ignicolor" ; Times: 11
+	Query: "Ptychohyla specificepithet:macrotympanum" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "brava" ; Times: 1
+	Query: "specificepithet:ocellata order:galliformes" ; Times: 1
+	Query: "Piprites pileata" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "grey-headed bulbul" ; Times: 1
+	Query: "Drepanornis albertisi albertisi" ; Times: 1
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus pinchaque " ; Times: 20
+	Query: "genus:Ptychohyla specificepithet:macrotympanum" ; Times: 3
+	Query: "specificepithet:lacernulatus genus:Buteogallus" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Eastern Spot-billed duck" ; Times: 1
+	Query: "specificepithet:galeatus genus:Dryocopus" ; Times: 1
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "smooth green snake" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "vanellus duvaucelii" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "orcinus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "(hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 2
+	Query: "genus:synthliboramphus distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "attila phoenicurus" ; Times: 1
+	Query: "stateprovince:&#34;Maine&#34; (Castor canadensis)" ; Times: 11
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 11
+	Query: "genus:bubalornis class:aves country:&#34;ethiopia&#34;" ; Times: 2
+	Query: "country:&#34;ecuador&#34; year &gt;= 1996 year &lt;= 1996 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;Mexico&#34; (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;100000" ; Times: 1
+	Query: "CUMV 54895" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "Yellow-billed Duck" ; Times: 2
+	Query: "specificepithet:wagleri order:galliformes" ; Times: 1
+	Query: "coccopygia melanotis" ; Times: 1
+	Query: "passer simplex" ; Times: 2
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber: 196268" ; Times: 1
+	Query: "amnh hummingbirds" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:leucophyllatus" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "37841" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:synthliboramphus distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;100000" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "takin" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Bokermannohyla specificepithet:circumdata" ; Times: 1
+	Query: "mellisuga helenae" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:mediocris genus:cinnyris" ; Times: 1
+	Query: "batis minor" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "pacific tree frog" ; Times: 1
+	Query: "murrelet distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "Guadalupe Murrelet" ; Times: 1
+	Query: "Anaxyrus nelsoni" ; Times: 2
+	Query: "country:&#34;Mexico&#34; (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 1
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "harpia" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "cinnyris manoensis" ; Times: 4
+	Query: "Japanese Paradise Flycatcher" ; Times: 1
+	Query: "White-cheeked Pintail" ; Times: 1
+	Query: "specificepithet:coronatus genus:Xolmis" ; Times: 1
+	Query: "Spot-billed duck" ; Times: 1
+	Query: "Dactylomys limoncocha" ; Times: 4
+	Query: "100499" ; Times: 1
+	Query: "class:aves stateprovince:&#34;shanxi&#34; country:&#34;china&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Potos flavus " ; Times: 1
+	Query: "Anas americana" ; Times: 5
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "(Synthliboramphus OR Brachyramphus OR Endomychura OR hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "specificepithet:cinereiceps order:galliformes" ; Times: 1
+	Query: "macolor niger" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "specificepithet:ocellata genus:Rheinardia" ; Times: 2
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "Apus unicolor" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta palliata " ; Times: 5
+	Query: "hello world" ; Times: 6
+	Query: "specificepithet:barbatus order:galliformes" ; Times: 1
+	Query: "callacanthis" ; Times: 3
+	Query: "stateprovince:&#34;Baja California&#34; (hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;46527" ; Times: 1
+	Query: "Allobates marchesianus" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 4
+	Query: "genus:Leptodon country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Batis senegalensis" ; Times: 2
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Aerodramus hirundinaceus" ; Times: 2
+	Query: "Epimachus" ; Times: 3
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "trimeresurus malabaricus india" ; Times: 1
+	Query: "honeybee" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 6
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "specificepithet:swainsoni genus:myiarchus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "coral snakes" ; Times: 2
+	Query: "Otus spilocephalus" ; Times: 1
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Turtle Mountain" ; Times: 1
+	Query: "Red panda" ; Times: 1
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "Anas luzonica" ; Times: 1
+	Query: "astrapia nigra" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:furcatus genus:Hemitriccus" ; Times: 1
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "chironomidae" ; Times: 1
+	Query: "Red-winged blackbirds" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "synallaxis infuscata" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 4
+	Query: "family:Alcidae distance(location,geopoint(29.005973938083642,-118.0798416514881))&lt;100000" ; Times: 1
+	Query: "barking deer" ; Times: 1
+	Query: "Oreochromis macrochir" ; Times: 6
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "Lemur Leaf Frog" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "specificepithet:gularis genus:Francolinus order:galliformes" ; Times: 1
+	Query: "Duellmanohyla chamulae" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "eastern coyote data" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "country:Ecuador scientificname:Globicephala macrorhynchus " ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "(murrelet) distance(location,geopoint(29.03896733545581,-118.27999879606068))&lt;28361" ; Times: 1
+	Query: "hypsignathus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Dactylomys peruanus" ; Times: 4
+	Query: "family:Alcidae country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "eastern coyote" ; Times: 3
+	Query: "Neafrapus boehmi" ; Times: 1
+	Query: "Campephilus pollens" ; Times: 1
+	Query: "roosevelt elk" ; Times: 4
+	Query: "Pacific Black Duck" ; Times: 1
+	Query: "Aerodramus infuscatus" ; Times: 2
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(29.026960094048103,-118.26626588590443))&lt;100000" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 6
+	Query: "Tersina viridis" ; Times: 1
+	Query: "malus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Dactylomys cocha cashu" ; Times: 3
+	Query: "coccyzus americanus Cuba" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "Dactylomys tzapino" ; Times: 2
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 1
+	Query: "Dactylomys Pando" ; Times: 3
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "Eleothreptus anomalus" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Branta canadensis mass OR weight" ; Times: 1
+	Query: "blue-eared kingfisher" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Xolmis coronatus" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Sporophila ruficollis" ; Times: 4
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Bos taurus" ; Times: 6
+	Query: "corbidi" ; Times: 2
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "genus:Tropidophis" ; Times: 2
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "collectioncode:ML 43301 institutioncode:CLO" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Polioptila lactea" ; Times: 2
+	Query: "(hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca) distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;21148" ; Times: 1
+	Query: "specificepithet:malacense order:galliformes" ; Times: 1
+	Query: "signigobius biocellatus" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "Turtle Mountain Road" ; Times: 1
+	Query: "country:Ecuador scientificname:Dactylomys dactylinus " ; Times: 1
+	Query: "himalayan tahr" ; Times: 1
+	Query: "trimeresurus malabaricus" ; Times: 4
+	Query: "specificepithet:edwardsi genus:Bangsia" ; Times: 1
+	Query: "(hypoleucus OR hypoleuca OR scrippsi) distance(location,geopoint(29.016484723526617,-118.28908162930658))&lt;46527" ; Times: 1
+	Query: "Butis butis" ; Times: 6
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus mimulus " ; Times: 2
+	Query: "Ptychohyla acrochorda" ; Times: 1
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Buteogallus lacernulatus" ; Times: 2
+	Query: "steelhead" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 146 (out of 474 download events in this period)
+Total number of records downloaded: 4839
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 52
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 79
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Bolivia ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 6
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 12
+	Date: 2020-06-05 ; Times: 4
+	Date: 2020-06-02 ; Times: 12
+	Date: 2020-06-03 ; Times: 9
+	Date: 2020-06-01 ; Times: 8
+	Date: 2020-06-10 ; Times: 84
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:furcatus genus:Hemitriccus" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "Eleothreptus anomalus" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:douglasii order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:cinctus genus:Rhynchortyx" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:sanguiniceps order:galliformes" ; Times: 1
+	Query: "specificepithet:gularis genus:Francolinus order:galliformes" ; Times: 1
+	Query: "specificepithet:cruentus order:galliformes" ; Times: 1
+	Query: "pacific tree frog" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; distance(location,geopoint(29.043896447931495,-118.28591729849256))&lt;100000" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "Dactylomys" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "grey squirrel" ; Times: 1
+	Query: "california scrub jay" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "catalognumber:138134 (hypoleucus OR Brachyramphus OR Synthliboramphus OR hypoleuca OR craveri OR scrippsi) institutioncode:CLO" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "largemouth bass" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "specificepithet:hypochroma genus:Sporophila" ; Times: 1
+	Query: "specificepithet:coronatus genus:Xolmis" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "specificepithet:anomalus genus:Eleothreptus" ; Times: 1
+	Query: "roosevelt elk" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "Pacific tree frog" ; Times: 1
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:cinereiceps order:galliformes" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "specificepithet:cujubi order:galliformes" ; Times: 2
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Chemehuevi county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:ocellata genus:Rheinardia" ; Times: 1
+	Query: "Sporophila hypochroma" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "specificepithet:barbatus order:galliformes" ; Times: 1
+	Query: "Xolmis coronatus" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "specificepithet:gingica order:galliformes" ; Times: 1
+	Query: "Anaxyrus exsul" ; Times: 1
+	Query: "specificepithet:motmot order:galliformes" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Piprites pileata" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "bull frog" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "Hemitriccus furcatus" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "specificepithet:pileata genus:Piprites" ; Times: 1
+	Query: "specificepithet:lacernulatus genus:Buteogallus" ; Times: 1
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:galeatus genus:Dryocopus" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "specificepithet:dabbenei order:galliformes" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Charadriiformes distance(location,geopoint(29.01899867522116,-118.2787034052114))&lt;37438" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "specificepithet:nigropectus genus:Biatas" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "specificepithet:pipile order:galliformes" ; Times: 1
+	Query: "Biatas nigropectus" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:bubalornis class:aves country:&#34;ethiopia&#34;" ; Times: 1
+	Query: "specificepithet:unicolor order:galliformes" ; Times: 1
+	Query: "country:&#34;ecuador&#34; year &gt;= 1996 year &lt;= 1996 month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:erythroptera order:galliformes" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "specificepithet:canicollis order:galliformes" ; Times: 2
+	Query: "specificepithet:malacense order:galliformes" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "Cardellina canadensis Texas" ; Times: 1
+	Query: "specificepithet:wagleri order:galliformes" ; Times: 1
+	Query: "specificepithet:albipennis order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Sturnella defilippii" ; Times: 1
+	Query: "specificepithet:salvini order:galliformes" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "Buteogallus lacernulatus" ; Times: 2
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Nymphargus grandisonae" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+
+
+End of report.
